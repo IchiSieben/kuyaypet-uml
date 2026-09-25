@@ -96,9 +96,6 @@ const hu: Tpl = (d, s) => {
   const ai = d.text.findIndex((t, i) => i !== ti && i !== pi && t.color === '#517084' && !t.t.startsWith('KuyayPet'));
   const info = parseHu(d.text[ti].t)!;
   const titleInner = `<span class="hu-code">${esc(info.code)}</span><span class="hu-sep"> | </span><span class="hu-name">${esc(info.name)}</span>`;
-  const view = d.text[vi].t;
-  const vk = view.indexOf(' · ');
-  const viewInner = vk < 0 ? esc(view) : `<span class="view-kind">${esc(view.slice(0, vk))}</span><span class="view-part">${esc(view.slice(vk))}</span>`;
   let actorHtml = '';
   if (ai >= 0) {
     const a = d.text[ai].t;
@@ -113,7 +110,7 @@ const hu: Tpl = (d, s) => {
     html: `
       <header class="hu-head">
         ${s(ti, 'hu-title', titleInner, 'h2').replace('class="hu-title"', `class="hu-title" style="--ts:${titleScale}"`)}
-        <div class="hu-meta">${s(vi, 'view', viewInner)}${s(pi, 'pdf')}</div>
+        <div class="hu-meta">${s(vi, 'view')}${s(pi, 'pdf')}</div>
         ${actorHtml}
       </header>
       <div class="sheet-wrap">

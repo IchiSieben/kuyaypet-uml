@@ -63,7 +63,7 @@ ol { list-style: none; }
   font-size: 21px; letter-spacing: 0.02em; white-space: pre;
   color: var(--slate); font-variant-numeric: tabular-nums;
 }
-.dark .slide-footer { color: var(--sky); opacity: 0.85; }
+.dark .slide-footer { color: #93C3D8; }
 
 .icon { display: block; flex: none; }
 
@@ -128,7 +128,7 @@ ol { list-style: none; }
 .hu-sep { color: var(--sky); font-weight: 400; white-space: pre; }
 .hu-meta { display: flex; justify-content: space-between; align-items: baseline; margin-top: 22px; }
 .view { font-size: 33px; font-weight: 700; color: var(--blue); }
-.view-part { font-weight: 600; opacity: 0.8; white-space: pre; }
+.view-part { font-weight: 600; color: #4F96BC; white-space: pre; }
 .pdf { font-size: 25px; color: var(--slate); font-variant-numeric: tabular-nums; }
 .actor-line { font-size: 33px; color: var(--slate); margin-top: 16px; white-space: pre-wrap; }
 .actor-who { font-weight: 600; color: var(--navy); }
@@ -206,3 +206,12 @@ ol { list-style: none; }
   font-variant-numeric: tabular-nums;
 }
 .goto.on { opacity: 1; }
+
+/* ---------- Print mode (PDF export, ?print) ---------- */
+@page { size: 1920px 1080px; margin: 0; }
+html:has(body.print), body.print { height: auto; overflow: visible; background: none; }
+body.print #viewport { position: static; }
+body.print #stage { position: static; transform: none !important; width: 1920px; height: auto; overflow: visible; }
+body.print .slide { position: relative; width: 1920px; height: 1080px; overflow: hidden; break-after: page; }
+body.print .slide.dark::after { display: none; }
+body.print .goto { display: none; }

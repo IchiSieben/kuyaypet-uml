@@ -12,6 +12,7 @@ let current = 0; // 0-based
 
 // ---- Scaling: fixed 1920×1080 logical canvas, letterboxed ----
 function fit() {
+  if (document.body.classList.contains('print')) return;
   const s = Math.min(window.innerWidth / W, window.innerHeight / H);
   stage.style.transform = `translate(-50%, -50%) scale(${s})`;
 }
@@ -127,5 +128,18 @@ stage.addEventListener('click', (e) => {
   if (e.clientX - r.left < r.width / 3) prev(); else next();
 });
 
-slides[0].el.classList.remove('active');
-show(fromHash());
+// ---- Print mode (?print): every slide stacked at 1920×1080, final state, for the PDF export ----
+async function printMode() {
+  document.body.classList.add('print');
+  slides.forEach((s, i) => { s.el.classList.add('active'); load(i); });
+  await document.fonts.ready;
+  await Promise.all([...stage.querySelectorAll('img')].map((img) => img.decode().catch(() => undefined)));
+  document.body.dataset.ready = 'print';
+}
+
+if (new URLSearchParams(location.search).has('print')) {
+  printMode();
+} else {
+  slides[0].el.classList.remove('active');
+  show(fromHash());
+}

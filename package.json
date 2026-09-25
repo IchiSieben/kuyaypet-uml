@@ -9,7 +9,8 @@
     "preview": "vite preview --port 4173 --strictPort",
     "check": "playwright test tests/check.spec.ts",
     "screens": "playwright test tests/screens.spec.ts",
-    "icons": "playwright test tests/icons.spec.ts"
+    "icons": "playwright test tests/icons.spec.ts",
+    "pdf": "playwright test tests/pdf.spec.ts && python tools/verify_pdf.py out/KuyayPet_Presentacion_UML.pdf"
   },
   "devDependencies": {
     "@playwright/test": "^1.63.0",
