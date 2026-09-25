@@ -169,7 +169,7 @@ ol { list-style: none; }
 .step-hu { font-size: 33px; color: var(--slate); margin-top: 18px; }
 .arrow { display: flex; align-items: center; justify-content: center; padding-top: 120px; }
 .arrow-glyph { font-size: 60px; color: var(--blue); font-weight: 300; line-height: 1; }
-.arrow[style*='dn'] { padding-top: 0; justify-content: flex-start; padding-left: 190px; }
+.arrow[data-area='dn'] { padding-top: 0; justify-content: flex-start; padding-left: 190px; }
 .flow-foot { padding: 0 0 92px 20px; }
 .flow-admin { font-size: 33px; color: var(--blue); font-weight: 500; }
 .flow-note { font-size: 25px; color: var(--slate); margin-top: 16px; }

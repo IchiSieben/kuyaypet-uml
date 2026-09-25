@@ -121,8 +121,8 @@ const hu: Tpl = (d, s) => {
 
 const flow: Tpl = (d, s) => {
   const step = (ic: number, name: number, hu: number, area: string) =>
-    `<div class="step" style="grid-area:${area}">${icon(d, ic)}${s(name, 'step-name', undefined, 'h3')}${s(hu, 'step-hu', undefined, 'p')}</div>`;
-  const arrow = (i: number, area: string) => `<div class="arrow" style="grid-area:${area}">${s(i, 'arrow-glyph')}</div>`;
+    `<div class="step" data-area="${area}" style="grid-area:${area}">${icon(d, ic)}${s(name, 'step-name', undefined, 'h3')}${s(hu, 'step-hu', undefined, 'p')}</div>`;
+  const arrow = (i: number, area: string) => `<div class="arrow" data-area="${area}" style="grid-area:${area}">${s(i, 'arrow-glyph')}</div>`;
   return {
     theme: 'light', tpl: 'flow',
     html: `

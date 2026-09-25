@@ -153,7 +153,7 @@ export async function enter(slide: HTMLElement): Promise<void> {
     case 'tpl-flow': {
       const order = ['a', 'r1', 'b', 'r2', 'c', 'dn', 'd', 'l1', 'e', 'l2', 'f'];
       order.forEach((area, i) => {
-        const el = slide.querySelector<HTMLElement>(`[style*="grid-area:${area}"]`)!;
+        const el = slide.querySelector<HTMLElement>(`[data-area="${area}"]`)!;
         if (el.classList.contains('step')) { draw(el.querySelector('svg')!, 150 + i * 120, 600, 70); rise(el, 150 + i * 120, 480, 12); }
         else fade(el, 200 + i * 120, 300);
       });

@@ -19,6 +19,8 @@ Los mismos PDF están también en Pages: `https://ichisieben.github.io/kuyaypet-
 - **15:22 · PDF Funcionalidades con prototipo** (`out/KuyayPet_Funcionalidades_Principales_con_prototipo.pdf`, 20 págs.): capturas reales en marco de celular sobre el área interna de cada recuadro (p5–p16) y logo de la app en p1 y p20. La imagen original de cada página no se modificó: las capturas son imágenes superpuestas. La barra “PROTOTIPO WEB” queda visible.
 - **15:30 · Publicado** en Hostinger y en GitHub Pages (versión Fase 1, sin animaciones). Verificado con Playwright: 90 láminas, diagrama a 2052 px, ambos PDF con HTTP 200 y `%PDF`; hash SHA-256 de los 81 diagramas idéntico en ambos sitios.
 - Tag `v1-clase`.
+- **16:11 · Fase 2 lista en la rama `fase2`** (sin desplegar por la ventana congelada): láminas que se dibujan, lupa, vista general (O), índice por HU (H), barra de progreso con marcas por HU. 18 pruebas en verde. Merge y redespliegue después de las 17:30.
+- 16:25 · Corregido en `fase2`: en la lámina 87 el paso “Conversar” no se animaba (selector ambiguo `d`/`dn`).
 
 ## Problemas y decisiones
 - La CDN de Hostinger recomprimía los PNG de diagramas a WebP (reducidos a 1600 px). Se corrigió con `.htaccess` `Cache-Control: no-transform` y purga de caché; ahora los bytes son idénticos.
