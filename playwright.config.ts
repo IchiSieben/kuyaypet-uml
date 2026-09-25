@@ -5,7 +5,8 @@ export default defineConfig({
   timeout: 600_000,
   workers: 1,
   reporter: 'list',
-  use: { browserName: 'chromium' },
+  // Final state by default (no entrance animation); tests/anim.spec.ts opts back into motion.
+  use: { browserName: 'chromium', reducedMotion: 'reduce' },
   webServer: [
     // Built site: what the check and the screenshots judge.
     { command: 'npm run build && npm run preview', url: 'http://localhost:4173', reuseExistingServer: false, timeout: 180_000 },

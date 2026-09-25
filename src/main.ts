@@ -1,6 +1,8 @@
 import '@fontsource-variable/inter';
 import './style.css';
 import { buildSlides } from './slides';
+import { enter, finish, animating, prefetch } from './anim';
+import { buildChrome } from './chrome';
 
 const W = 1920;
 const H = 1080;
@@ -25,13 +27,22 @@ function load(i: number) {
   if (img && !img.getAttribute('src')) img.src = img.dataset.src!;
 }
 
+// data-ready = the slide reached its final (static) state: fonts, diagram and entrance done.
 async function markReady(i: number) {
   const img = slides[i].el.querySelector<HTMLImageElement>('img[data-src]');
   await document.fonts.ready;
+  if (i !== current) return;
+  prefetch(slides[i + 1]?.el);
+  await enter(slides[i].el);
   if (img) {
     try { await img.decode(); } catch { /* error surfaces in check via naturalWidth */ }
   }
-  if (i === current) document.body.dataset.ready = String(i + 1);
+  if (i === current && !animating()) document.body.dataset.ready = String(i + 1);
+}
+
+function skip() {
+  finish();
+  document.body.dataset.ready = String(current + 1);
 }
 
 // ---- Router ----
@@ -45,6 +56,7 @@ function show(i: number) {
   load(i + 1);
   const hash = `#/${i + 1}`;
   if (location.hash !== hash) history.replaceState(null, '', hash);
+  chrome?.update(i);
   markReady(i);
 }
 
@@ -56,6 +68,7 @@ window.addEventListener('hashchange', () => show(fromHash()));
 
 const next = () => show(current + 1);
 const prev = () => show(current - 1);
+let chrome: ReturnType<typeof buildChrome> | null = null;
 
 // ---- Keyboard: arrows/space/pages, F fullscreen, G + number + Enter ----
 const gotoBox = document.createElement('div');
@@ -72,8 +85,20 @@ function endGoto(commit: boolean) {
   clearTimeout(gotoTimer);
 }
 
+const NAV = new Set(['ArrowRight', 'ArrowDown', 'PageDown', ' ', 'ArrowLeft', 'ArrowUp', 'PageUp', 'Backspace', 'Home', 'End']);
+
 window.addEventListener('keydown', (e) => {
   if (e.ctrlKey || e.metaKey || e.altKey) return;
+  if (chrome?.isOpen()) {
+    if (e.key === 'Escape') chrome.closeAll();
+    else if (e.key === 'o' || e.key === 'O') chrome.toggleOverview();
+    else if (e.key === 'h' || e.key === 'H') chrome.toggleIndex();
+    else return;
+    e.preventDefault();
+    return;
+  }
+  // First key during an entrance only skips it to the final state.
+  if (gotoBuf === null && NAV.has(e.key) && animating()) { skip(); e.preventDefault(); return; }
   if (gotoBuf !== null) {
     if (/^\d$/.test(e.key) && gotoBuf.length < 2) {
       gotoBuf += e.key;
@@ -93,6 +118,8 @@ window.addEventListener('keydown', (e) => {
     case 'f': case 'F':
       if (document.fullscreenElement) document.exitFullscreen(); else document.documentElement.requestFullscreen();
       break;
+    case 'o': case 'O': finish(); chrome?.toggleOverview(); break;
+    case 'h': case 'H': finish(); chrome?.toggleIndex(); break;
     case 'g': case 'G':
       gotoBuf = '';
       gotoBox.textContent = '→ _';
@@ -107,9 +134,11 @@ window.addEventListener('keydown', (e) => {
 // ---- Wheel (one step per gesture) ----
 let wheelLock = 0;
 window.addEventListener('wheel', (e) => {
+  if (chrome?.isOpen()) return;
   const now = Date.now();
   if (now < wheelLock || Math.abs(e.deltaY) < 8) return;
   wheelLock = now + 650;
+  if (animating()) { skip(); return; }
   if (e.deltaY > 0) next(); else prev();
 }, { passive: true });
 
@@ -119,11 +148,15 @@ window.addEventListener('touchstart', (e) => { touchX = e.touches[0].clientX; to
 window.addEventListener('touchend', (e) => {
   const dx = e.changedTouches[0].clientX - touchX;
   const dy = e.changedTouches[0].clientY - touchY;
-  if (Math.abs(dx) > 50 && Math.abs(dx) > Math.abs(dy)) { if (dx < 0) next(); else prev(); }
+  if (chrome?.isOpen()) return;
+  if (Math.abs(dx) > 50 && Math.abs(dx) > Math.abs(dy)) { if (animating()) skip(); else if (dx < 0) next(); else prev(); }
 }, { passive: true });
 
-// ---- Click: right two thirds advance, left third goes back ----
+// ---- Click: diagram opens the loupe; elsewhere right two thirds advance, left third goes back ----
 stage.addEventListener('click', (e) => {
+  const sheetImg = (e.target as Element).closest('.sheet')?.querySelector('img');
+  if (sheetImg) { skip(); chrome?.openZoom(sheetImg); return; }
+  if (animating()) { skip(); return; }
   const r = stage.getBoundingClientRect();
   if (e.clientX - r.left < r.width / 3) prev(); else next();
 });
@@ -140,6 +173,7 @@ async function printMode() {
 if (new URLSearchParams(location.search).has('print')) {
   printMode();
 } else {
+  chrome = buildChrome(slides, show);
   slides[0].el.classList.remove('active');
   show(fromHash());
 }

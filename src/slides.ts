@@ -142,9 +142,12 @@ const relation: Tpl = (d, s) => {
     const [x0, y0, x1] = d.text[i].bbox;
     return s(i, `abs ${cls}`, undefined, 'span').replace(`class="abs ${cls}"`, `class="abs ${cls}" style="left:${(x0 + x1)}px;top:${y0 * 2}px"`);
   };
+  // Each connector starts at its outer end so the drawing animation runs toward the centre.
+  const cx = 960, cy = 500;
   const lines = d.drawings.filter((g) => g.type === 's').map((g) => {
-    const [x0, y0, x1, y1] = g.rect;
-    return `<line x1="${x0 * 2}" y1="${y0 * 2}" x2="${x1 * 2}" y2="${y1 * 2}" />`;
+    let [x0, y0, x1, y1] = g.rect.map((v) => v * 2);
+    if (Math.hypot(x0 - cx, y0 - cy) < Math.hypot(x1 - cx, y1 - cy)) [x0, y0, x1, y1] = [x1, y1, x0, y0];
+    return `<line pathLength="1" x1="${x0}" y1="${y0}" x2="${x1}" y2="${y1}" />`;
   }).join('');
   return {
     theme: 'light', tpl: 'relation',
@@ -197,6 +200,7 @@ export function buildSlides(stage: HTMLElement): BuiltSlide[] {
     const el = document.createElement('section');
     el.className = `slide ${theme} tpl-${tpl}`;
     el.dataset.slide = String(d.slide);
+    if (tpl === 'hu' || tpl === 'hu wide') el.dataset.dir = /^(Actividades|Secuencia)/.test(d.text.find((t) => t.color === '#247CAA')!.t) ? 'y' : 'x';
     el.innerHTML = html + footer;
     stage.appendChild(el);
     const title = d.text.find((t) => t.t.startsWith('HU-'));

@@ -215,3 +215,70 @@ body.print #stage { position: static; transform: none !important; width: 1920px;
 body.print .slide { position: relative; width: 1920px; height: 1080px; overflow: hidden; break-after: page; }
 body.print .slide.dark::after { display: none; }
 body.print .goto { display: none; }
+
+/* ---------- Entrance animation helpers (Fase 2) ---------- */
+@property --n { syntax: '<integer>'; inherits: false; initial-value: 0; }
+.fig-num { --count-color: var(--sky); }
+.crit-num { --count-color: var(--blue); }
+.num.counting { position: relative; color: transparent !important; counter-reset: n var(--n); }
+.num.counting::after {
+  content: counter(n); position: absolute; left: 0; right: 0; top: 0;
+  color: var(--count-color); text-align: inherit;
+}
+.fig-num { text-align: center; }
+.sheet { position: relative; }
+.draw-overlay { position: absolute; inset: 22px; pointer-events: none; }
+.draw-overlay svg { display: block; width: 100%; height: 100%; }
+.draw-overlay path {
+  fill: none; stroke: var(--navy); stroke-width: 1.6; stroke-linejoin: round; stroke-linecap: round;
+  vector-effect: non-scaling-stroke;
+}
+.tpl-hu .sheet { cursor: zoom-in; }
+
+/* ---------- Progress bar with HU marks ---------- */
+.progress { position: fixed; left: 0; right: 0; bottom: 0; height: 4px; background: rgba(169, 221, 240, 0.14); z-index: 5; }
+.progress-fill { position: absolute; left: 0; top: 0; bottom: 0; background: var(--blue); transition: width .35s cubic-bezier(.2,.7,.2,1); }
+.progress-mark { position: absolute; top: 0; bottom: 0; width: 2px; margin-left: -1px; background: rgba(229, 161, 106, 0.75); }
+
+/* ---------- Panels: overview, HU index, zoom ---------- */
+.panel {
+  position: fixed; inset: 0; z-index: 20; display: none;
+  background: rgba(7, 24, 42, 0.94); backdrop-filter: blur(6px);
+  font-family: var(--font); color: #fff;
+}
+.panel.on { display: block; }
+.panel button { font: inherit; color: inherit; cursor: pointer; border: 0; text-align: left; }
+
+.overview { overflow-y: auto; padding: 32px 40px 48px; }
+.ov-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(220px, 1fr)); gap: 14px; }
+.ov-card {
+  aspect-ratio: 16 / 9; border-radius: 10px; padding: 12px 14px; display: flex; flex-direction: column; gap: 6px;
+  background: var(--paper); color: var(--navy); outline: 2px solid transparent; transition: outline-color .15s, transform .15s;
+}
+.ov-card.dark { background: var(--navy); color: #fff; }
+.ov-card:hover, .ov-card:focus-visible { outline-color: var(--amber); transform: translateY(-2px); }
+.ov-card.current { outline-color: var(--sky); }
+.ov-n { font-size: 13px; font-weight: 700; color: var(--amber); font-variant-numeric: tabular-nums; }
+.ov-t { font-size: 15px; font-weight: 700; line-height: 1.25; }
+.ov-v { font-size: 13px; color: var(--blue); font-weight: 600; margin-top: auto; }
+.ov-card.dark .ov-v { color: var(--sky); }
+
+.hu-index { overflow-y: auto; padding: 40px; }
+.hx-list { max-width: 1100px; margin: 0 auto; display: grid; grid-template-columns: 1fr 1fr; gap: 6px 28px; }
+.hx-item { display: grid; grid-template-columns: 76px 1fr 40px; align-items: baseline; gap: 12px; padding: 10px 14px; border-radius: 8px; background: transparent; }
+.hx-item:hover, .hx-item:focus-visible, .hx-item.current { background: rgba(169, 221, 240, 0.12); }
+.hx-code { font-weight: 700; color: var(--sky); font-size: 17px; }
+.hx-name { font-size: 17px; }
+.hx-n { font-size: 14px; color: var(--amber); text-align: right; font-variant-numeric: tabular-nums; }
+
+.zoom { background: rgba(7, 24, 42, 0.96); overflow: hidden; cursor: zoom-in; touch-action: none; }
+.zoom img {
+  position: absolute; left: 50%; top: 50%; max-width: 96vw; max-height: 94vh;
+  translate: -50% -50%; background: #fff; border-radius: 8px; transform-origin: center;
+  box-shadow: 0 20px 60px rgba(0, 0, 0, .45); user-select: none;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .progress-fill, .ov-card { transition: none; }
+}
+body.print .progress, body.print .panel { display: none; }

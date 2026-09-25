@@ -2,8 +2,8 @@
 // so they can animate with stroke-dashoffset. Shapes verified against the PNGs
 // in out/iconos_comparacion.png. Keyed by the original asset basename.
 
-const P = (d: string) => `<path d="${d}"/>`;
-const C = (cx: number, cy: number, r: number) => `<circle cx="${cx}" cy="${cy}" r="${r}"/>`;
+const P = (d: string) => `<path pathLength="1" d="${d}"/>`;
+const C = (cx: number, cy: number, r: number) => `<circle pathLength="1" cx="${cx}" cy="${cy}" r="${r}"/>`;
 
 const paw =
   C(10.94, 3.94, 2) +
@@ -34,7 +34,7 @@ const bell =
 
 const calendar =
   P('M8 2v4') + P('M16 2v4') +
-  '<rect x="3" y="4" width="18" height="18" rx="2"/>' +
+  '<rect pathLength="1" x="3" y="4" width="18" height="18" rx="2"/>' +
   P('M3 10h18') +
   P('M8 14h.01') + P('M12 14h.01') + P('M16 14h.01') +
   P('M8 18h.01') + P('M12 18h.01') + P('M16 18h.01');
