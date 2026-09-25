@@ -102,3 +102,24 @@ test('precarga solo la lámina actual y la siguiente', async ({ page }) => {
     expect(loaded.sort((a, b) => a - b), `desde #/${n}`).toEqual(allowed);
   }
 });
+
+test('ningún texto queda cortado fuera de la lámina', async ({ page }) => {
+  for (const vp of [{ width: 1920, height: 1080 }, { width: 1366, height: 768 }]) {
+    await page.setViewportSize(vp);
+    await page.goto(BASE);
+    for (let n = 1; n <= 90; n++) {
+      await goto(page, n);
+      const out = await page.evaluate((n) => {
+        const slide = document.querySelector<HTMLElement>(`[data-slide="${n}"]`)!;
+        const r = slide.getBoundingClientRect();
+        return [...slide.querySelectorAll<HTMLElement>('[data-span]')].flatMap((el) => {
+          const b = el.getBoundingClientRect();
+          const clipped = b.left < r.left - 0.5 || b.right > r.right + 0.5 || b.top < r.top - 0.5 || b.bottom > r.bottom + 0.5;
+          const overflow = el.scrollWidth > el.clientWidth + 1 && getComputedStyle(el).overflow !== 'visible';
+          return clipped || overflow ? [`span ${el.dataset.span}: ${el.textContent}`] : [];
+        });
+      }, n);
+      expect(out, `lámina ${n} a ${vp.width}x${vp.height}`).toEqual([]);
+    }
+  }
+});
