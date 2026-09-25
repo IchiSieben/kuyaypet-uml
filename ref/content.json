@@ -1,0 +1,8933 @@
+[
+ {
+  "slide": 1,
+  "size": [
+   960.0,
+   540.0
+  ],
+  "text": [
+   {
+    "t": "KuyayPet  /  01",
+    "font": "ArialMT",
+    "size": 10.6,
+    "color": "#A9DDF0",
+    "bbox": [
+     845.6,
+     515.7,
+     916.7,
+     527.5
+    ]
+   },
+   {
+    "t": "KuyayPet",
+    "font": "Arial-BoldMT",
+    "size": 69.0,
+    "color": "#FFFFFF",
+    "bbox": [
+     55.2,
+     136.5,
+     369.6,
+     213.5
+    ]
+   },
+   {
+    "t": "Modelado UML",
+    "font": "ArialMT",
+    "size": 40.6,
+    "color": "#A9DDF0",
+    "bbox": [
+     58.2,
+     232.7,
+     332.8,
+     277.9
+    ]
+   },
+   {
+    "t": "Ingeniería de Software",
+    "font": "ArialMT",
+    "size": 21.0,
+    "color": "#FFFFFF",
+    "bbox": [
+     59.7,
+     382.6,
+     270.8,
+     406.1
+    ]
+   },
+   {
+    "t": "Universidad Peruana Cayetano Heredia",
+    "font": "ArialMT",
+    "size": 18.7,
+    "color": "#A9DDF0",
+    "bbox": [
+     59.7,
+     419.9,
+     390.2,
+     440.8
+    ]
+   }
+  ],
+  "images": [
+   {
+    "file": "assets/img_001_s01.png",
+    "bbox": [
+     667.6,
+     127.6,
+     877.6,
+     337.6
+    ],
+    "px": [
+     192,
+     192
+    ]
+   },
+   {
+    "file": "assets/img_002_s01.png",
+    "bbox": [
+     814.6,
+     339.0,
+     868.6,
+     393.0
+    ],
+    "px": [
+     192,
+     192
+    ]
+   }
+  ],
+  "drawings": [
+   {
+    "type": "f",
+    "rect": [
+     0.0,
+     -0.0,
+     960.0,
+     540.0
+    ],
+    "fill": "#102D47",
+    "stroke": null,
+    "width": null
+   }
+  ]
+ },
+ {
+  "slide": 2,
+  "size": [
+   960.0,
+   540.0
+  ],
+  "text": [
+   {
+    "t": "¿Qué es KuyayPet?",
+    "font": "Arial-BoldMT",
+    "size": 30.0,
+    "color": "#102D47",
+    "bbox": [
+     43.2,
+     36.5,
+     325.0,
+     70.0
+    ]
+   },
+   {
+    "t": "KuyayPet  /  02",
+    "font": "ArialMT",
+    "size": 10.6,
+    "color": "#517084",
+    "bbox": [
+     845.6,
+     515.7,
+     916.7,
+     527.5
+    ]
+   },
+   {
+    "t": "Una plataforma para explorar mascotas y coordinar una posible adopción.",
+    "font": "ArialMT",
+    "size": 22.6,
+    "color": "#102D47",
+    "bbox": [
+     44.7,
+     106.4,
+     782.4,
+     131.6
+    ]
+   },
+   {
+    "t": "Mascotas",
+    "font": "Arial-BoldMT",
+    "size": 25.4,
+    "color": "#102D47",
+    "bbox": [
+     118.2,
+     312.9,
+     234.2,
+     341.2
+    ]
+   },
+   {
+    "t": "Publicación y consulta",
+    "font": "ArialMT",
+    "size": 18.0,
+    "color": "#517084",
+    "bbox": [
+     87.4,
+     367.7,
+     265.3,
+     387.8
+    ]
+   },
+   {
+    "t": "Interés",
+    "font": "Arial-BoldMT",
+    "size": 25.4,
+    "color": "#102D47",
+    "bbox": [
+     434.5,
+     312.9,
+     518.0,
+     341.2
+    ]
+   },
+   {
+    "t": "Interés mutuo y Match",
+    "font": "ArialMT",
+    "size": 18.0,
+    "color": "#517084",
+    "bbox": [
+     387.3,
+     367.7,
+     565.3,
+     387.8
+    ]
+   },
+   {
+    "t": "Contacto",
+    "font": "Arial-BoldMT",
+    "size": 25.4,
+    "color": "#102D47",
+    "bbox": [
+     721.2,
+     312.9,
+     831.4,
+     341.2
+    ]
+   },
+   {
+    "t": "Chat y coordinación",
+    "font": "ArialMT",
+    "size": 18.0,
+    "color": "#517084",
+    "bbox": [
+     697.0,
+     367.7,
+     855.7,
+     387.8
+    ]
+   }
+  ],
+  "images": [
+   {
+    "file": "assets/img_003_s02.png",
+    "bbox": [
+     112.6,
+     191.3,
+     208.6,
+     287.3
+    ],
+    "px": [
+     192,
+     192
+    ]
+   },
+   {
+    "file": "assets/img_004_s02.png",
+    "bbox": [
+     412.6,
+     191.3,
+     508.6,
+     287.3
+    ],
+    "px": [
+     192,
+     192
+    ]
+   },
+   {
+    "file": "assets/img_005_s02.png",
+    "bbox": [
+     712.6,
+     191.3,
+     808.6,
+     287.3
+    ],
+    "px": [
+     192,
+     192
+    ]
+   }
+  ],
+  "drawings": [
+   {
+    "type": "f",
+    "rect": [
+     0.0,
+     -0.0,
+     960.0,
+     540.0
+    ],
+    "fill": "#FFFFFF",
+    "stroke": null,
+    "width": null
+   }
+  ]
+ },
+ {
+  "slide": 3,
+  "size": [
+   960.0,
+   540.0
+  ],
+  "text": [
+   {
+    "t": "Modelado realizado",
+    "font": "Arial-BoldMT",
+    "size": 30.0,
+    "color": "#FFFFFF",
+    "bbox": [
+     43.2,
+     36.5,
+     321.6,
+     70.0
+    ]
+   },
+   {
+    "t": "KuyayPet  /  03",
+    "font": "ArialMT",
+    "size": 10.6,
+    "color": "#A9DDF0",
+    "bbox": [
+     845.6,
+     515.7,
+     916.7,
+     527.5
+    ]
+   },
+   {
+    "t": "26",
+    "font": "Arial-BoldMT",
+    "size": 102.0,
+    "color": "#A9DDF0",
+    "bbox": [
+     108.2,
+     167.0,
+     221.7,
+     280.8
+    ]
+   },
+   {
+    "t": "Historias de Usuario",
+    "font": "ArialMT",
+    "size": 21.0,
+    "color": "#FFFFFF",
+    "bbox": [
+     70.6,
+     328.3,
+     259.5,
+     351.7
+    ]
+   },
+   {
+    "t": "5",
+    "font": "Arial-BoldMT",
+    "size": 102.0,
+    "color": "#A9DDF0",
+    "bbox": [
+     436.7,
+     167.0,
+     493.4,
+     280.8
+    ]
+   },
+   {
+    "t": "Modelos por HU",
+    "font": "ArialMT",
+    "size": 21.0,
+    "color": "#FFFFFF",
+    "bbox": [
+     389.4,
+     328.3,
+     540.8,
+     351.7
+    ]
+   },
+   {
+    "t": "130",
+    "font": "Arial-BoldMT",
+    "size": 102.0,
+    "color": "#A9DDF0",
+    "bbox": [
+     680.0,
+     167.0,
+     850.2,
+     280.8
+    ]
+   },
+   {
+    "t": "Diagramas UML",
+    "font": "ArialMT",
+    "size": 21.0,
+    "color": "#FFFFFF",
+    "bbox": [
+     689.3,
+     328.3,
+     840.8,
+     351.7
+    ]
+   },
+   {
+    "t": "Caso de Uso   ·   Actividades   ·   Secuencia   ·   Componentes   ·   Colaboración",
+    "font": "ArialMT",
+    "size": 17.3,
+    "color": "#A9DDF0",
+    "bbox": [
+     172.1,
+     451.4,
+     786.5,
+     470.7
+    ]
+   }
+  ],
+  "images": [],
+  "drawings": [
+   {
+    "type": "f",
+    "rect": [
+     0.0,
+     -0.0,
+     960.0,
+     540.0
+    ],
+    "fill": "#102D47",
+    "stroke": null,
+    "width": null
+   }
+  ]
+ },
+ {
+  "slide": 4,
+  "size": [
+   960.0,
+   540.0
+  ],
+  "text": [
+   {
+    "t": "Actores principales",
+    "font": "Arial-BoldMT",
+    "size": 30.0,
+    "color": "#102D47",
+    "bbox": [
+     43.2,
+     36.5,
+     321.4,
+     70.0
+    ]
+   },
+   {
+    "t": "KuyayPet  /  04",
+    "font": "ArialMT",
+    "size": 10.6,
+    "color": "#517084",
+    "bbox": [
+     845.6,
+     515.7,
+     916.7,
+     527.5
+    ]
+   },
+   {
+    "t": "Usuario común",
+    "font": "Arial-BoldMT",
+    "size": 21.7,
+    "color": "#102D47",
+    "bbox": [
+     137.0,
+     163.2,
+     295.2,
+     187.4
+    ]
+   },
+   {
+    "t": "HU-01, 09, 14, 15, 21",
+    "font": "ArialMT",
+    "size": 17.3,
+    "color": "#517084",
+    "bbox": [
+     137.0,
+     221.1,
+     302.0,
+     240.4
+    ]
+   },
+   {
+    "t": "Adoptante",
+    "font": "Arial-BoldMT",
+    "size": 21.7,
+    "color": "#102D47",
+    "bbox": [
+     587.0,
+     163.2,
+     694.6,
+     187.4
+    ]
+   },
+   {
+    "t": "HU-02 a 08, 10, 17, 18, 20",
+    "font": "ArialMT",
+    "size": 17.3,
+    "color": "#517084",
+    "bbox": [
+     587.0,
+     221.1,
+     790.3,
+     240.4
+    ]
+   },
+   {
+    "t": "Responsable de mascota",
+    "font": "Arial-BoldMT",
+    "size": 21.7,
+    "color": "#102D47",
+    "bbox": [
+     137.0,
+     343.2,
+     397.9,
+     367.5
+    ]
+   },
+   {
+    "t": "HU-11 a 13, 16, 19",
+    "font": "ArialMT",
+    "size": 17.3,
+    "color": "#517084",
+    "bbox": [
+     137.0,
+     401.2,
+     281.5,
+     420.4
+    ]
+   },
+   {
+    "t": "Administrador de la plataforma",
+    "font": "Arial-BoldMT",
+    "size": 21.7,
+    "color": "#102D47",
+    "bbox": [
+     587.0,
+     343.2,
+     908.2,
+     367.5
+    ]
+   },
+   {
+    "t": "HU-22 a 26",
+    "font": "ArialMT",
+    "size": 17.3,
+    "color": "#517084",
+    "bbox": [
+     587.0,
+     401.2,
+     675.3,
+     420.4
+    ]
+   }
+  ],
+  "images": [
+   {
+    "file": "assets/img_006_s04.png",
+    "bbox": [
+     56.3,
+     142.6,
+     111.7,
+     198.0
+    ],
+    "px": [
+     192,
+     192
+    ]
+   },
+   {
+    "file": "assets/img_004_s02.png",
+    "bbox": [
+     506.3,
+     142.6,
+     561.7,
+     198.0
+    ],
+    "px": [
+     192,
+     192
+    ]
+   },
+   {
+    "file": "assets/img_003_s02.png",
+    "bbox": [
+     56.3,
+     322.6,
+     111.7,
+     378.0
+    ],
+    "px": [
+     192,
+     192
+    ]
+   },
+   {
+    "file": "assets/img_007_s04.png",
+    "bbox": [
+     506.3,
+     322.6,
+     561.7,
+     378.0
+    ],
+    "px": [
+     192,
+     192
+    ]
+   }
+  ],
+  "drawings": [
+   {
+    "type": "f",
+    "rect": [
+     0.0,
+     -0.0,
+     960.0,
+     540.0
+    ],
+    "fill": "#FFFFFF",
+    "stroke": null,
+    "width": null
+   }
+  ]
+ },
+ {
+  "slide": 5,
+  "size": [
+   960.0,
+   540.0
+  ],
+  "text": [
+   {
+    "t": "Criterio de selección",
+    "font": "Arial-BoldMT",
+    "size": 30.0,
+    "color": "#102D47",
+    "bbox": [
+     43.2,
+     36.5,
+     338.2,
+     70.0
+    ]
+   },
+   {
+    "t": "KuyayPet  /  05",
+    "font": "ArialMT",
+    "size": 10.6,
+    "color": "#517084",
+    "bbox": [
+     845.6,
+     515.7,
+     916.7,
+     527.5
+    ]
+   },
+   {
+    "t": "52",
+    "font": "Arial-BoldMT",
+    "size": 93.0,
+    "color": "#247CAA",
+    "bbox": [
+     52.2,
+     145.2,
+     155.7,
+     248.9
+    ]
+   },
+   {
+    "t": "diagramas ",
+    "font": "Arial-BoldMT",
+    "size": 24.7,
+    "color": "#102D47",
+    "bbox": [
+     56.0,
+     263.1,
+     186.6,
+     290.7
+    ]
+   },
+   {
+    "t": "seleccionados",
+    "font": "Arial-BoldMT",
+    "size": 24.7,
+    "color": "#102D47",
+    "bbox": [
+     56.0,
+     292.8,
+     226.6,
+     320.3
+    ]
+   },
+   {
+    "t": "2 modelos por HU en promedio",
+    "font": "ArialMT",
+    "size": 19.6,
+    "color": "#517084",
+    "bbox": [
+     56.0,
+     357.2,
+     327.4,
+     379.0
+    ]
+   },
+   {
+    "t": "01",
+    "font": "Arial-BoldMT",
+    "size": 28.6,
+    "color": "#E5A16A",
+    "bbox": [
+     419.8,
+     146.1,
+     451.5,
+     177.9
+    ]
+   },
+   {
+    "t": "Objetivo y actores",
+    "font": "ArialMT",
+    "size": 22.6,
+    "color": "#102D47",
+    "bbox": [
+     494.8,
+     150.0,
+     675.1,
+     175.1
+    ]
+   },
+   {
+    "t": "02",
+    "font": "Arial-BoldMT",
+    "size": 28.6,
+    "color": "#E5A16A",
+    "bbox": [
+     419.8,
+     216.6,
+     451.5,
+     248.4
+    ]
+   },
+   {
+    "t": "Decisiones e interacciones",
+    "font": "ArialMT",
+    "size": 22.6,
+    "color": "#102D47",
+    "bbox": [
+     494.8,
+     220.5,
+     762.6,
+     245.6
+    ]
+   },
+   {
+    "t": "03",
+    "font": "Arial-BoldMT",
+    "size": 28.6,
+    "color": "#E5A16A",
+    "bbox": [
+     419.8,
+     287.1,
+     451.5,
+     318.9
+    ]
+   },
+   {
+    "t": "Dependencias técnicas relevantes",
+    "font": "ArialMT",
+    "size": 22.6,
+    "color": "#102D47",
+    "bbox": [
+     494.8,
+     291.0,
+     837.5,
+     316.2
+    ]
+   },
+   {
+    "t": "Una sola vista entre Secuencia y Colaboración por HU.",
+    "font": "ArialMT",
+    "size": 18.0,
+    "color": "#517084",
+    "bbox": [
+     419.8,
+     376.8,
+     859.6,
+     396.9
+    ]
+   },
+   {
+    "t": "Diagramas extensos: vistas consecutivas con continuidad.",
+    "font": "ArialMT",
+    "size": 18.0,
+    "color": "#517084",
+    "bbox": [
+     419.8,
+     444.3,
+     884.5,
+     464.4
+    ]
+   }
+  ],
+  "images": [],
+  "drawings": [
+   {
+    "type": "f",
+    "rect": [
+     0.0,
+     -0.0,
+     960.0,
+     540.0
+    ],
+    "fill": "#FFFFFF",
+    "stroke": null,
+    "width": null
+   }
+  ]
+ },
+ {
+  "slide": 6,
+  "size": [
+   960.0,
+   540.0
+  ],
+  "text": [
+   {
+    "t": "HU-01 | Registro de usuario",
+    "font": "Arial-BoldMT",
+    "size": 30.0,
+    "color": "#102D47",
+    "bbox": [
+     43.2,
+     36.5,
+     436.6,
+     70.0
+    ]
+   },
+   {
+    "t": "KuyayPet  /  06",
+    "font": "ArialMT",
+    "size": 10.6,
+    "color": "#517084",
+    "bbox": [
+     845.6,
+     515.7,
+     916.7,
+     527.5
+    ]
+   },
+   {
+    "t": "Caso de Uso",
+    "font": "Arial-BoldMT",
+    "size": 16.6,
+    "color": "#247CAA",
+    "bbox": [
+     43.2,
+     83.5,
+     143.3,
+     101.9
+    ]
+   },
+   {
+    "t": "PDF · p. 5",
+    "font": "ArialMT",
+    "size": 12.7,
+    "color": "#517084",
+    "bbox": [
+     857.3,
+     83.9,
+     915.3,
+     98.1
+    ]
+   },
+   {
+    "t": "Usuario común  ·  Acceder a la plataforma con una cuenta propia.",
+    "font": "ArialMT",
+    "size": 16.6,
+    "color": "#517084",
+    "bbox": [
+     43.2,
+     113.5,
+     523.0,
+     131.9
+    ]
+   }
+  ],
+  "images": [
+   {
+    "file": "assets/img_008_s06.png",
+    "bbox": [
+     191.4,
+     143.3,
+     768.6,
+     501.0
+    ],
+    "px": [
+     2052,
+     1272
+    ]
+   }
+  ],
+  "drawings": [
+   {
+    "type": "f",
+    "rect": [
+     0.0,
+     -0.0,
+     960.0,
+     540.0
+    ],
+    "fill": "#FFFFFF",
+    "stroke": null,
+    "width": null
+   }
+  ]
+ },
+ {
+  "slide": 7,
+  "size": [
+   960.0,
+   540.0
+  ],
+  "text": [
+   {
+    "t": "HU-01 | Registro de usuario",
+    "font": "Arial-BoldMT",
+    "size": 30.0,
+    "color": "#102D47",
+    "bbox": [
+     43.2,
+     36.5,
+     436.6,
+     70.0
+    ]
+   },
+   {
+    "t": "KuyayPet  /  07",
+    "font": "ArialMT",
+    "size": 10.6,
+    "color": "#517084",
+    "bbox": [
+     845.6,
+     515.7,
+     916.7,
+     527.5
+    ]
+   },
+   {
+    "t": "Actividades · Vista 1 de 3",
+    "font": "Arial-BoldMT",
+    "size": 16.6,
+    "color": "#247CAA",
+    "bbox": [
+     43.2,
+     83.5,
+     240.9,
+     101.9
+    ]
+   },
+   {
+    "t": "PDF · p. 6",
+    "font": "ArialMT",
+    "size": 12.7,
+    "color": "#517084",
+    "bbox": [
+     857.3,
+     83.9,
+     915.3,
+     98.1
+    ]
+   }
+  ],
+  "images": [
+   {
+    "file": "assets/img_009_s07.png",
+    "bbox": [
+     133.7,
+     113.3,
+     826.3,
+     501.0
+    ],
+    "px": [
+     2372,
+     1328
+    ]
+   }
+  ],
+  "drawings": [
+   {
+    "type": "f",
+    "rect": [
+     0.0,
+     -0.0,
+     960.0,
+     540.0
+    ],
+    "fill": "#FFFFFF",
+    "stroke": null,
+    "width": null
+   }
+  ]
+ },
+ {
+  "slide": 8,
+  "size": [
+   960.0,
+   540.0
+  ],
+  "text": [
+   {
+    "t": "HU-01 | Registro de usuario",
+    "font": "Arial-BoldMT",
+    "size": 30.0,
+    "color": "#102D47",
+    "bbox": [
+     43.2,
+     36.5,
+     436.6,
+     70.0
+    ]
+   },
+   {
+    "t": "KuyayPet  /  08",
+    "font": "ArialMT",
+    "size": 10.6,
+    "color": "#517084",
+    "bbox": [
+     845.6,
+     515.7,
+     916.7,
+     527.5
+    ]
+   },
+   {
+    "t": "Actividades · Vista 2 de 3",
+    "font": "Arial-BoldMT",
+    "size": 16.6,
+    "color": "#247CAA",
+    "bbox": [
+     43.2,
+     83.5,
+     240.9,
+     101.9
+    ]
+   },
+   {
+    "t": "PDF · p. 6",
+    "font": "ArialMT",
+    "size": 12.7,
+    "color": "#517084",
+    "bbox": [
+     857.3,
+     83.9,
+     915.3,
+     98.1
+    ]
+   }
+  ],
+  "images": [
+   {
+    "file": "assets/img_010_s08.png",
+    "bbox": [
+     152.4,
+     113.3,
+     807.6,
+     501.0
+    ],
+    "px": [
+     2372,
+     1404
+    ]
+   }
+  ],
+  "drawings": [
+   {
+    "type": "f",
+    "rect": [
+     0.0,
+     -0.0,
+     960.0,
+     540.0
+    ],
+    "fill": "#FFFFFF",
+    "stroke": null,
+    "width": null
+   }
+  ]
+ },
+ {
+  "slide": 9,
+  "size": [
+   960.0,
+   540.0
+  ],
+  "text": [
+   {
+    "t": "HU-01 | Registro de usuario",
+    "font": "Arial-BoldMT",
+    "size": 30.0,
+    "color": "#102D47",
+    "bbox": [
+     43.2,
+     36.5,
+     436.6,
+     70.0
+    ]
+   },
+   {
+    "t": "KuyayPet  /  09",
+    "font": "ArialMT",
+    "size": 10.6,
+    "color": "#517084",
+    "bbox": [
+     845.6,
+     515.7,
+     916.7,
+     527.5
+    ]
+   },
+   {
+    "t": "Actividades · Vista 3 de 3",
+    "font": "Arial-BoldMT",
+    "size": 16.6,
+    "color": "#247CAA",
+    "bbox": [
+     43.2,
+     83.5,
+     240.9,
+     101.9
+    ]
+   },
+   {
+    "t": "PDF · p. 6",
+    "font": "ArialMT",
+    "size": 12.7,
+    "color": "#517084",
+    "bbox": [
+     857.3,
+     83.9,
+     915.3,
+     98.1
+    ]
+   }
+  ],
+  "images": [
+   {
+    "file": "assets/img_011_s09.png",
+    "bbox": [
+     62.3,
+     113.3,
+     897.7,
+     501.0
+    ],
+    "px": [
+     2372,
+     1101
+    ]
+   }
+  ],
+  "drawings": [
+   {
+    "type": "f",
+    "rect": [
+     0.0,
+     -0.0,
+     960.0,
+     540.0
+    ],
+    "fill": "#FFFFFF",
+    "stroke": null,
+    "width": null
+   }
+  ]
+ },
+ {
+  "slide": 10,
+  "size": [
+   960.0,
+   540.0
+  ],
+  "text": [
+   {
+    "t": "HU-02 | Visualización de mascotas disponibles para adopción",
+    "font": "Arial-BoldMT",
+    "size": 25.4,
+    "color": "#102D47",
+    "bbox": [
+     43.2,
+     39.0,
+     791.4,
+     67.4
+    ]
+   },
+   {
+    "t": "KuyayPet  /  10",
+    "font": "ArialMT",
+    "size": 10.6,
+    "color": "#517084",
+    "bbox": [
+     845.6,
+     515.7,
+     916.7,
+     527.5
+    ]
+   },
+   {
+    "t": "Caso de Uso",
+    "font": "Arial-BoldMT",
+    "size": 16.6,
+    "color": "#247CAA",
+    "bbox": [
+     43.2,
+     83.5,
+     143.3,
+     101.9
+    ]
+   },
+   {
+    "t": "PDF · p. 11",
+    "font": "ArialMT",
+    "size": 12.7,
+    "color": "#517084",
+    "bbox": [
+     851.2,
+     83.9,
+     915.3,
+     98.1
+    ]
+   },
+   {
+    "t": "Adoptante  ·  Conocer las mascotas disponibles para adopción.",
+    "font": "ArialMT",
+    "size": 16.6,
+    "color": "#517084",
+    "bbox": [
+     43.2,
+     113.5,
+     505.4,
+     131.9
+    ]
+   }
+  ],
+  "images": [
+   {
+    "file": "assets/img_012_s10.png",
+    "bbox": [
+     191.4,
+     143.3,
+     768.6,
+     501.0
+    ],
+    "px": [
+     2052,
+     1272
+    ]
+   }
+  ],
+  "drawings": [
+   {
+    "type": "f",
+    "rect": [
+     0.0,
+     -0.0,
+     960.0,
+     540.0
+    ],
+    "fill": "#FFFFFF",
+    "stroke": null,
+    "width": null
+   }
+  ]
+ },
+ {
+  "slide": 11,
+  "size": [
+   960.0,
+   540.0
+  ],
+  "text": [
+   {
+    "t": "HU-02 | Visualización de mascotas disponibles para adopción",
+    "font": "Arial-BoldMT",
+    "size": 25.4,
+    "color": "#102D47",
+    "bbox": [
+     43.2,
+     39.0,
+     791.4,
+     67.4
+    ]
+   },
+   {
+    "t": "KuyayPet  /  11",
+    "font": "ArialMT",
+    "size": 10.6,
+    "color": "#517084",
+    "bbox": [
+     845.6,
+     515.7,
+     916.7,
+     527.5
+    ]
+   },
+   {
+    "t": "Actividades · Vista 1 de 2",
+    "font": "Arial-BoldMT",
+    "size": 16.6,
+    "color": "#247CAA",
+    "bbox": [
+     43.2,
+     83.5,
+     240.9,
+     101.9
+    ]
+   },
+   {
+    "t": "PDF · p. 12",
+    "font": "ArialMT",
+    "size": 12.7,
+    "color": "#517084",
+    "bbox": [
+     850.2,
+     83.9,
+     915.3,
+     98.1
+    ]
+   }
+  ],
+  "images": [
+   {
+    "file": "assets/img_013_s11.png",
+    "bbox": [
+     133.7,
+     113.3,
+     826.3,
+     501.0
+    ],
+    "px": [
+     2372,
+     1328
+    ]
+   }
+  ],
+  "drawings": [
+   {
+    "type": "f",
+    "rect": [
+     0.0,
+     -0.0,
+     960.0,
+     540.0
+    ],
+    "fill": "#FFFFFF",
+    "stroke": null,
+    "width": null
+   }
+  ]
+ },
+ {
+  "slide": 12,
+  "size": [
+   960.0,
+   540.0
+  ],
+  "text": [
+   {
+    "t": "HU-02 | Visualización de mascotas disponibles para adopción",
+    "font": "Arial-BoldMT",
+    "size": 25.4,
+    "color": "#102D47",
+    "bbox": [
+     43.2,
+     39.0,
+     791.4,
+     67.4
+    ]
+   },
+   {
+    "t": "KuyayPet  /  12",
+    "font": "ArialMT",
+    "size": 10.6,
+    "color": "#517084",
+    "bbox": [
+     845.6,
+     515.7,
+     916.7,
+     527.5
+    ]
+   },
+   {
+    "t": "Actividades · Vista 2 de 2",
+    "font": "Arial-BoldMT",
+    "size": 16.6,
+    "color": "#247CAA",
+    "bbox": [
+     43.2,
+     83.5,
+     240.9,
+     101.9
+    ]
+   },
+   {
+    "t": "PDF · p. 12",
+    "font": "ArialMT",
+    "size": 12.7,
+    "color": "#517084",
+    "bbox": [
+     850.2,
+     83.9,
+     915.3,
+     98.1
+    ]
+   }
+  ],
+  "images": [
+   {
+    "file": "assets/img_014_s12.png",
+    "bbox": [
+     165.2,
+     113.3,
+     794.8,
+     501.0
+    ],
+    "px": [
+     2372,
+     1461
+    ]
+   }
+  ],
+  "drawings": [
+   {
+    "type": "f",
+    "rect": [
+     0.0,
+     -0.0,
+     960.0,
+     540.0
+    ],
+    "fill": "#FFFFFF",
+    "stroke": null,
+    "width": null
+   }
+  ]
+ },
+ {
+  "slide": 13,
+  "size": [
+   960.0,
+   540.0
+  ],
+  "text": [
+   {
+    "t": "HU-03 | Ver perfil de una mascota",
+    "font": "Arial-BoldMT",
+    "size": 30.0,
+    "color": "#102D47",
+    "bbox": [
+     43.2,
+     36.5,
+     518.4,
+     70.0
+    ]
+   },
+   {
+    "t": "KuyayPet  /  13",
+    "font": "ArialMT",
+    "size": 10.6,
+    "color": "#517084",
+    "bbox": [
+     845.6,
+     515.7,
+     916.7,
+     527.5
+    ]
+   },
+   {
+    "t": "Secuencia · Vista 1 de 2",
+    "font": "Arial-BoldMT",
+    "size": 16.6,
+    "color": "#247CAA",
+    "bbox": [
+     43.2,
+     83.5,
+     230.0,
+     101.9
+    ]
+   },
+   {
+    "t": "PDF · p. 19",
+    "font": "ArialMT",
+    "size": 12.7,
+    "color": "#517084",
+    "bbox": [
+     850.2,
+     83.9,
+     915.3,
+     98.1
+    ]
+   },
+   {
+    "t": "Adoptante  ·  Consultar la información de una mascota.",
+    "font": "ArialMT",
+    "size": 16.6,
+    "color": "#517084",
+    "bbox": [
+     43.2,
+     113.5,
+     446.3,
+     131.9
+    ]
+   }
+  ],
+  "images": [
+   {
+    "file": "assets/img_015_s13.png",
+    "bbox": [
+     36.0,
+     191.8,
+     924.0,
+     452.5
+    ],
+    "px": [
+     2466,
+     724
+    ]
+   }
+  ],
+  "drawings": [
+   {
+    "type": "f",
+    "rect": [
+     0.0,
+     -0.0,
+     960.0,
+     540.0
+    ],
+    "fill": "#FFFFFF",
+    "stroke": null,
+    "width": null
+   }
+  ]
+ },
+ {
+  "slide": 14,
+  "size": [
+   960.0,
+   540.0
+  ],
+  "text": [
+   {
+    "t": "HU-03 | Ver perfil de una mascota",
+    "font": "Arial-BoldMT",
+    "size": 30.0,
+    "color": "#102D47",
+    "bbox": [
+     43.2,
+     36.5,
+     518.4,
+     70.0
+    ]
+   },
+   {
+    "t": "KuyayPet  /  14",
+    "font": "ArialMT",
+    "size": 10.6,
+    "color": "#517084",
+    "bbox": [
+     845.6,
+     515.7,
+     916.7,
+     527.5
+    ]
+   },
+   {
+    "t": "Secuencia · Vista 2 de 2",
+    "font": "Arial-BoldMT",
+    "size": 16.6,
+    "color": "#247CAA",
+    "bbox": [
+     43.2,
+     83.5,
+     230.0,
+     101.9
+    ]
+   },
+   {
+    "t": "PDF · p. 19",
+    "font": "ArialMT",
+    "size": 12.7,
+    "color": "#517084",
+    "bbox": [
+     850.2,
+     83.9,
+     915.3,
+     98.1
+    ]
+   }
+  ],
+  "images": [
+   {
+    "file": "assets/img_016_s14.png",
+    "bbox": [
+     36.0,
+     145.9,
+     924.0,
+     468.2
+    ],
+    "px": [
+     2466,
+     895
+    ]
+   }
+  ],
+  "drawings": [
+   {
+    "type": "f",
+    "rect": [
+     0.0,
+     -0.0,
+     960.0,
+     540.0
+    ],
+    "fill": "#FFFFFF",
+    "stroke": null,
+    "width": null
+   }
+  ]
+ },
+ {
+  "slide": 15,
+  "size": [
+   960.0,
+   540.0
+  ],
+  "text": [
+   {
+    "t": "HU-04 | Filtrar mascotas según preferencias",
+    "font": "Arial-BoldMT",
+    "size": 30.0,
+    "color": "#102D47",
+    "bbox": [
+     43.2,
+     36.5,
+     669.8,
+     70.0
+    ]
+   },
+   {
+    "t": "KuyayPet  /  15",
+    "font": "ArialMT",
+    "size": 10.6,
+    "color": "#517084",
+    "bbox": [
+     845.6,
+     515.7,
+     916.7,
+     527.5
+    ]
+   },
+   {
+    "t": "Actividades · Vista 1 de 2",
+    "font": "Arial-BoldMT",
+    "size": 16.6,
+    "color": "#247CAA",
+    "bbox": [
+     43.2,
+     83.5,
+     240.9,
+     101.9
+    ]
+   },
+   {
+    "t": "PDF · p. 24",
+    "font": "ArialMT",
+    "size": 12.7,
+    "color": "#517084",
+    "bbox": [
+     850.2,
+     83.9,
+     915.3,
+     98.1
+    ]
+   },
+   {
+    "t": "Adoptante  ·  Encontrar mascotas según las preferencias elegidas.",
+    "font": "ArialMT",
+    "size": 16.6,
+    "color": "#517084",
+    "bbox": [
+     43.2,
+     113.5,
+     529.4,
+     131.9
+    ]
+   }
+  ],
+  "images": [
+   {
+    "file": "assets/img_017_s15.png",
+    "bbox": [
+     141.7,
+     143.3,
+     818.3,
+     501.0
+    ],
+    "px": [
+     1879,
+     993
+    ]
+   }
+  ],
+  "drawings": [
+   {
+    "type": "f",
+    "rect": [
+     0.0,
+     -0.0,
+     960.0,
+     540.0
+    ],
+    "fill": "#FFFFFF",
+    "stroke": null,
+    "width": null
+   }
+  ]
+ },
+ {
+  "slide": 16,
+  "size": [
+   960.0,
+   540.0
+  ],
+  "text": [
+   {
+    "t": "HU-04 | Filtrar mascotas según preferencias",
+    "font": "Arial-BoldMT",
+    "size": 30.0,
+    "color": "#102D47",
+    "bbox": [
+     43.2,
+     36.5,
+     669.8,
+     70.0
+    ]
+   },
+   {
+    "t": "KuyayPet  /  16",
+    "font": "ArialMT",
+    "size": 10.6,
+    "color": "#517084",
+    "bbox": [
+     845.6,
+     515.7,
+     916.7,
+     527.5
+    ]
+   },
+   {
+    "t": "Actividades · Vista 2 de 2",
+    "font": "Arial-BoldMT",
+    "size": 16.6,
+    "color": "#247CAA",
+    "bbox": [
+     43.2,
+     83.5,
+     240.9,
+     101.9
+    ]
+   },
+   {
+    "t": "PDF · p. 24",
+    "font": "ArialMT",
+    "size": 12.7,
+    "color": "#517084",
+    "bbox": [
+     850.2,
+     83.9,
+     915.3,
+     98.1
+    ]
+   }
+  ],
+  "images": [
+   {
+    "file": "assets/img_018_s16.png",
+    "bbox": [
+     69.1,
+     113.3,
+     890.9,
+     501.0
+    ],
+    "px": [
+     2282,
+     1076
+    ]
+   }
+  ],
+  "drawings": [
+   {
+    "type": "f",
+    "rect": [
+     0.0,
+     -0.0,
+     960.0,
+     540.0
+    ],
+    "fill": "#FFFFFF",
+    "stroke": null,
+    "width": null
+   }
+  ]
+ },
+ {
+  "slide": 17,
+  "size": [
+   960.0,
+   540.0
+  ],
+  "text": [
+   {
+    "t": "HU-04 | Filtrar mascotas según preferencias",
+    "font": "Arial-BoldMT",
+    "size": 30.0,
+    "color": "#102D47",
+    "bbox": [
+     43.2,
+     36.5,
+     669.8,
+     70.0
+    ]
+   },
+   {
+    "t": "KuyayPet  /  17",
+    "font": "ArialMT",
+    "size": 10.6,
+    "color": "#517084",
+    "bbox": [
+     845.6,
+     515.7,
+     916.7,
+     527.5
+    ]
+   },
+   {
+    "t": "Componentes",
+    "font": "Arial-BoldMT",
+    "size": 16.6,
+    "color": "#247CAA",
+    "bbox": [
+     43.2,
+     83.5,
+     153.5,
+     101.9
+    ]
+   },
+   {
+    "t": "PDF · p. 26",
+    "font": "ArialMT",
+    "size": 12.7,
+    "color": "#517084",
+    "bbox": [
+     850.2,
+     83.9,
+     915.3,
+     98.1
+    ]
+   }
+  ],
+  "images": [
+   {
+    "file": "assets/img_019_s17.png",
+    "bbox": [
+     36.0,
+     138.7,
+     924.0,
+     475.6
+    ],
+    "px": [
+     2852,
+     1082
+    ]
+   }
+  ],
+  "drawings": [
+   {
+    "type": "f",
+    "rect": [
+     0.0,
+     -0.0,
+     960.0,
+     540.0
+    ],
+    "fill": "#FFFFFF",
+    "stroke": null,
+    "width": null
+   }
+  ]
+ },
+ {
+  "slide": 18,
+  "size": [
+   960.0,
+   540.0
+  ],
+  "text": [
+   {
+    "t": "HU-05 | Búsqueda de mascotas cercanas",
+    "font": "Arial-BoldMT",
+    "size": 30.0,
+    "color": "#102D47",
+    "bbox": [
+     43.2,
+     36.5,
+     628.2,
+     70.0
+    ]
+   },
+   {
+    "t": "KuyayPet  /  18",
+    "font": "ArialMT",
+    "size": 10.6,
+    "color": "#517084",
+    "bbox": [
+     845.6,
+     515.7,
+     916.7,
+     527.5
+    ]
+   },
+   {
+    "t": "Caso de Uso",
+    "font": "Arial-BoldMT",
+    "size": 16.6,
+    "color": "#247CAA",
+    "bbox": [
+     43.2,
+     83.5,
+     143.3,
+     101.9
+    ]
+   },
+   {
+    "t": "PDF · p. 29",
+    "font": "ArialMT",
+    "size": 12.7,
+    "color": "#517084",
+    "bbox": [
+     850.2,
+     83.9,
+     915.3,
+     98.1
+    ]
+   },
+   {
+    "t": "Adoptante  ·  Encontrar opciones de adopción cercanas.",
+    "font": "ArialMT",
+    "size": 16.6,
+    "color": "#517084",
+    "bbox": [
+     43.2,
+     113.5,
+     454.3,
+     131.9
+    ]
+   }
+  ],
+  "images": [
+   {
+    "file": "assets/img_020_s18.png",
+    "bbox": [
+     191.4,
+     143.3,
+     768.6,
+     501.0
+    ],
+    "px": [
+     2052,
+     1272
+    ]
+   }
+  ],
+  "drawings": [
+   {
+    "type": "f",
+    "rect": [
+     0.0,
+     -0.0,
+     960.0,
+     540.0
+    ],
+    "fill": "#FFFFFF",
+    "stroke": null,
+    "width": null
+   }
+  ]
+ },
+ {
+  "slide": 19,
+  "size": [
+   960.0,
+   540.0
+  ],
+  "text": [
+   {
+    "t": "HU-05 | Búsqueda de mascotas cercanas",
+    "font": "Arial-BoldMT",
+    "size": 30.0,
+    "color": "#102D47",
+    "bbox": [
+     43.2,
+     36.5,
+     628.2,
+     70.0
+    ]
+   },
+   {
+    "t": "KuyayPet  /  19",
+    "font": "ArialMT",
+    "size": 10.6,
+    "color": "#517084",
+    "bbox": [
+     845.6,
+     515.7,
+     916.7,
+     527.5
+    ]
+   },
+   {
+    "t": "Colaboración / Comunicación · Vista 1 de 2",
+    "font": "Arial-BoldMT",
+    "size": 16.6,
+    "color": "#247CAA",
+    "bbox": [
+     43.2,
+     83.5,
+     381.6,
+     101.9
+    ]
+   },
+   {
+    "t": "PDF · p. 33",
+    "font": "ArialMT",
+    "size": 12.7,
+    "color": "#517084",
+    "bbox": [
+     850.2,
+     83.9,
+     915.3,
+     98.1
+    ]
+   }
+  ],
+  "images": [
+   {
+    "file": "assets/img_021_s19.png",
+    "bbox": [
+     36.0,
+     230.4,
+     924.0,
+     383.9
+    ],
+    "px": [
+     2466,
+     426
+    ]
+   }
+  ],
+  "drawings": [
+   {
+    "type": "f",
+    "rect": [
+     0.0,
+     -0.0,
+     960.0,
+     540.0
+    ],
+    "fill": "#FFFFFF",
+    "stroke": null,
+    "width": null
+   }
+  ]
+ },
+ {
+  "slide": 20,
+  "size": [
+   960.0,
+   540.0
+  ],
+  "text": [
+   {
+    "t": "HU-05 | Búsqueda de mascotas cercanas",
+    "font": "Arial-BoldMT",
+    "size": 30.0,
+    "color": "#102D47",
+    "bbox": [
+     43.2,
+     36.5,
+     628.2,
+     70.0
+    ]
+   },
+   {
+    "t": "KuyayPet  /  20",
+    "font": "ArialMT",
+    "size": 10.6,
+    "color": "#517084",
+    "bbox": [
+     845.6,
+     515.7,
+     916.7,
+     527.5
+    ]
+   },
+   {
+    "t": "Colaboración / Comunicación · Vista 2 de 2",
+    "font": "Arial-BoldMT",
+    "size": 16.6,
+    "color": "#247CAA",
+    "bbox": [
+     43.2,
+     83.5,
+     381.6,
+     101.9
+    ]
+   },
+   {
+    "t": "PDF · p. 33",
+    "font": "ArialMT",
+    "size": 12.7,
+    "color": "#517084",
+    "bbox": [
+     850.2,
+     83.9,
+     915.3,
+     98.1
+    ]
+   }
+  ],
+  "images": [
+   {
+    "file": "assets/img_022_s20.png",
+    "bbox": [
+     36.0,
+     160.3,
+     924.0,
+     454.0
+    ],
+    "px": [
+     2466,
+     815
+    ]
+   }
+  ],
+  "drawings": [
+   {
+    "type": "f",
+    "rect": [
+     0.0,
+     -0.0,
+     960.0,
+     540.0
+    ],
+    "fill": "#FFFFFF",
+    "stroke": null,
+    "width": null
+   }
+  ]
+ },
+ {
+  "slide": 21,
+  "size": [
+   960.0,
+   540.0
+  ],
+  "text": [
+   {
+    "t": "HU-06 | Indicar interés en una mascota",
+    "font": "Arial-BoldMT",
+    "size": 30.0,
+    "color": "#102D47",
+    "bbox": [
+     43.2,
+     36.5,
+     594.9,
+     70.0
+    ]
+   },
+   {
+    "t": "KuyayPet  /  21",
+    "font": "ArialMT",
+    "size": 10.6,
+    "color": "#517084",
+    "bbox": [
+     845.6,
+     515.7,
+     916.7,
+     527.5
+    ]
+   },
+   {
+    "t": "Actividades · Vista 1 de 3",
+    "font": "Arial-BoldMT",
+    "size": 16.6,
+    "color": "#247CAA",
+    "bbox": [
+     43.2,
+     83.5,
+     240.9,
+     101.9
+    ]
+   },
+   {
+    "t": "PDF · p. 36",
+    "font": "ArialMT",
+    "size": 12.7,
+    "color": "#517084",
+    "bbox": [
+     850.2,
+     83.9,
+     915.3,
+     98.1
+    ]
+   },
+   {
+    "t": "Adoptante  ·  Expresar interés por una mascota.",
+    "font": "ArialMT",
+    "size": 16.6,
+    "color": "#517084",
+    "bbox": [
+     43.2,
+     113.5,
+     394.1,
+     131.9
+    ]
+   }
+  ],
+  "images": [
+   {
+    "file": "assets/img_023_s21.png",
+    "bbox": [
+     193.2,
+     143.3,
+     766.8,
+     501.0
+    ],
+    "px": [
+     1552,
+     968
+    ]
+   }
+  ],
+  "drawings": [
+   {
+    "type": "f",
+    "rect": [
+     0.0,
+     -0.0,
+     960.0,
+     540.0
+    ],
+    "fill": "#FFFFFF",
+    "stroke": null,
+    "width": null
+   }
+  ]
+ },
+ {
+  "slide": 22,
+  "size": [
+   960.0,
+   540.0
+  ],
+  "text": [
+   {
+    "t": "HU-06 | Indicar interés en una mascota",
+    "font": "Arial-BoldMT",
+    "size": 30.0,
+    "color": "#102D47",
+    "bbox": [
+     43.2,
+     36.5,
+     594.9,
+     70.0
+    ]
+   },
+   {
+    "t": "KuyayPet  /  22",
+    "font": "ArialMT",
+    "size": 10.6,
+    "color": "#517084",
+    "bbox": [
+     845.6,
+     515.7,
+     916.7,
+     527.5
+    ]
+   },
+   {
+    "t": "Actividades · Vista 2 de 3",
+    "font": "Arial-BoldMT",
+    "size": 16.6,
+    "color": "#247CAA",
+    "bbox": [
+     43.2,
+     83.5,
+     240.9,
+     101.9
+    ]
+   },
+   {
+    "t": "PDF · p. 36",
+    "font": "ArialMT",
+    "size": 12.7,
+    "color": "#517084",
+    "bbox": [
+     850.2,
+     83.9,
+     915.3,
+     98.1
+    ]
+   }
+  ],
+  "images": [
+   {
+    "file": "assets/img_024_s22.png",
+    "bbox": [
+     274.1,
+     113.3,
+     685.9,
+     501.0
+    ],
+    "px": [
+     1552,
+     1461
+    ]
+   }
+  ],
+  "drawings": [
+   {
+    "type": "f",
+    "rect": [
+     0.0,
+     -0.0,
+     960.0,
+     540.0
+    ],
+    "fill": "#FFFFFF",
+    "stroke": null,
+    "width": null
+   }
+  ]
+ },
+ {
+  "slide": 23,
+  "size": [
+   960.0,
+   540.0
+  ],
+  "text": [
+   {
+    "t": "HU-06 | Indicar interés en una mascota",
+    "font": "Arial-BoldMT",
+    "size": 30.0,
+    "color": "#102D47",
+    "bbox": [
+     43.2,
+     36.5,
+     594.9,
+     70.0
+    ]
+   },
+   {
+    "t": "KuyayPet  /  23",
+    "font": "ArialMT",
+    "size": 10.6,
+    "color": "#517084",
+    "bbox": [
+     845.6,
+     515.7,
+     916.7,
+     527.5
+    ]
+   },
+   {
+    "t": "Actividades · Vista 3 de 3",
+    "font": "Arial-BoldMT",
+    "size": 16.6,
+    "color": "#247CAA",
+    "bbox": [
+     43.2,
+     83.5,
+     240.9,
+     101.9
+    ]
+   },
+   {
+    "t": "PDF · p. 36",
+    "font": "ArialMT",
+    "size": 12.7,
+    "color": "#517084",
+    "bbox": [
+     850.2,
+     83.9,
+     915.3,
+     98.1
+    ]
+   }
+  ],
+  "images": [
+   {
+    "file": "assets/img_025_s23.png",
+    "bbox": [
+     195.1,
+     113.3,
+     764.9,
+     501.0
+    ],
+    "px": [
+     1552,
+     1056
+    ]
+   }
+  ],
+  "drawings": [
+   {
+    "type": "f",
+    "rect": [
+     0.0,
+     -0.0,
+     960.0,
+     540.0
+    ],
+    "fill": "#FFFFFF",
+    "stroke": null,
+    "width": null
+   }
+  ]
+ },
+ {
+  "slide": 24,
+  "size": [
+   960.0,
+   540.0
+  ],
+  "text": [
+   {
+    "t": "HU-07 | Recibir un Match por compatibilidad",
+    "font": "Arial-BoldMT",
+    "size": 30.0,
+    "color": "#102D47",
+    "bbox": [
+     43.2,
+     36.5,
+     673.2,
+     70.0
+    ]
+   },
+   {
+    "t": "KuyayPet  /  24",
+    "font": "ArialMT",
+    "size": 10.6,
+    "color": "#517084",
+    "bbox": [
+     845.6,
+     515.7,
+     916.7,
+     527.5
+    ]
+   },
+   {
+    "t": "Caso de Uso",
+    "font": "Arial-BoldMT",
+    "size": 16.6,
+    "color": "#247CAA",
+    "bbox": [
+     43.2,
+     83.5,
+     143.3,
+     101.9
+    ]
+   },
+   {
+    "t": "PDF · p. 41",
+    "font": "ArialMT",
+    "size": 12.7,
+    "color": "#517084",
+    "bbox": [
+     850.2,
+     83.9,
+     915.3,
+     98.1
+    ]
+   },
+   {
+    "t": "Adoptante  ·  Continuar el contacto cuando existe interés mutuo.",
+    "font": "ArialMT",
+    "size": 16.6,
+    "color": "#517084",
+    "bbox": [
+     43.2,
+     113.5,
+     513.1,
+     131.9
+    ]
+   }
+  ],
+  "images": [
+   {
+    "file": "assets/img_026_s24.png",
+    "bbox": [
+     101.4,
+     143.3,
+     858.6,
+     501.0
+    ],
+    "px": [
+     2692,
+     1272
+    ]
+   }
+  ],
+  "drawings": [
+   {
+    "type": "f",
+    "rect": [
+     0.0,
+     -0.0,
+     960.0,
+     540.0
+    ],
+    "fill": "#FFFFFF",
+    "stroke": null,
+    "width": null
+   }
+  ]
+ },
+ {
+  "slide": 25,
+  "size": [
+   960.0,
+   540.0
+  ],
+  "text": [
+   {
+    "t": "HU-07 | Recibir un Match por compatibilidad",
+    "font": "Arial-BoldMT",
+    "size": 30.0,
+    "color": "#102D47",
+    "bbox": [
+     43.2,
+     36.5,
+     673.2,
+     70.0
+    ]
+   },
+   {
+    "t": "KuyayPet  /  25",
+    "font": "ArialMT",
+    "size": 10.6,
+    "color": "#517084",
+    "bbox": [
+     845.6,
+     515.7,
+     916.7,
+     527.5
+    ]
+   },
+   {
+    "t": "Actividades · Vista 1 de 2",
+    "font": "Arial-BoldMT",
+    "size": 16.6,
+    "color": "#247CAA",
+    "bbox": [
+     43.2,
+     83.5,
+     240.9,
+     101.9
+    ]
+   },
+   {
+    "t": "PDF · p. 42",
+    "font": "ArialMT",
+    "size": 12.7,
+    "color": "#517084",
+    "bbox": [
+     850.2,
+     83.9,
+     915.3,
+     98.1
+    ]
+   }
+  ],
+  "images": [
+   {
+    "file": "assets/img_027_s25.png",
+    "bbox": [
+     213.8,
+     113.3,
+     746.2,
+     501.0
+    ],
+    "px": [
+     1478,
+     1076
+    ]
+   }
+  ],
+  "drawings": [
+   {
+    "type": "f",
+    "rect": [
+     0.0,
+     -0.0,
+     960.0,
+     540.0
+    ],
+    "fill": "#FFFFFF",
+    "stroke": null,
+    "width": null
+   }
+  ]
+ },
+ {
+  "slide": 26,
+  "size": [
+   960.0,
+   540.0
+  ],
+  "text": [
+   {
+    "t": "HU-07 | Recibir un Match por compatibilidad",
+    "font": "Arial-BoldMT",
+    "size": 30.0,
+    "color": "#102D47",
+    "bbox": [
+     43.2,
+     36.5,
+     673.2,
+     70.0
+    ]
+   },
+   {
+    "t": "KuyayPet  /  26",
+    "font": "ArialMT",
+    "size": 10.6,
+    "color": "#517084",
+    "bbox": [
+     845.6,
+     515.7,
+     916.7,
+     527.5
+    ]
+   },
+   {
+    "t": "Actividades · Vista 2 de 2",
+    "font": "Arial-BoldMT",
+    "size": 16.6,
+    "color": "#247CAA",
+    "bbox": [
+     43.2,
+     83.5,
+     240.9,
+     101.9
+    ]
+   },
+   {
+    "t": "PDF · p. 42",
+    "font": "ArialMT",
+    "size": 12.7,
+    "color": "#517084",
+    "bbox": [
+     850.2,
+     83.9,
+     915.3,
+     98.1
+    ]
+   }
+  ],
+  "images": [
+   {
+    "file": "assets/img_028_s26.png",
+    "bbox": [
+     165.2,
+     113.3,
+     794.8,
+     501.0
+    ],
+    "px": [
+     2372,
+     1461
+    ]
+   }
+  ],
+  "drawings": [
+   {
+    "type": "f",
+    "rect": [
+     0.0,
+     -0.0,
+     960.0,
+     540.0
+    ],
+    "fill": "#FFFFFF",
+    "stroke": null,
+    "width": null
+   }
+  ]
+ },
+ {
+  "slide": 27,
+  "size": [
+   960.0,
+   540.0
+  ],
+  "text": [
+   {
+    "t": "HU-07 | Recibir un Match por compatibilidad",
+    "font": "Arial-BoldMT",
+    "size": 30.0,
+    "color": "#102D47",
+    "bbox": [
+     43.2,
+     36.5,
+     673.2,
+     70.0
+    ]
+   },
+   {
+    "t": "KuyayPet  /  27",
+    "font": "ArialMT",
+    "size": 10.6,
+    "color": "#517084",
+    "bbox": [
+     845.6,
+     515.7,
+     916.7,
+     527.5
+    ]
+   },
+   {
+    "t": "Componentes",
+    "font": "Arial-BoldMT",
+    "size": 16.6,
+    "color": "#247CAA",
+    "bbox": [
+     43.2,
+     83.5,
+     153.5,
+     101.9
+    ]
+   },
+   {
+    "t": "PDF · p. 44",
+    "font": "ArialMT",
+    "size": 12.7,
+    "color": "#517084",
+    "bbox": [
+     850.2,
+     83.9,
+     915.3,
+     98.1
+    ]
+   }
+  ],
+  "images": [
+   {
+    "file": "assets/img_029_s27.png",
+    "bbox": [
+     36.0,
+     183.7,
+     924.0,
+     430.6
+    ],
+    "px": [
+     2466,
+     685
+    ]
+   }
+  ],
+  "drawings": [
+   {
+    "type": "f",
+    "rect": [
+     0.0,
+     -0.0,
+     960.0,
+     540.0
+    ],
+    "fill": "#FFFFFF",
+    "stroke": null,
+    "width": null
+   }
+  ]
+ },
+ {
+  "slide": 28,
+  "size": [
+   960.0,
+   540.0
+  ],
+  "text": [
+   {
+    "t": "HU-08 | Comunicarse con el responsable de la mascota",
+    "font": "Arial-BoldMT",
+    "size": 30.0,
+    "color": "#102D47",
+    "bbox": [
+     43.2,
+     36.5,
+     831.6,
+     70.0
+    ]
+   },
+   {
+    "t": "KuyayPet  /  28",
+    "font": "ArialMT",
+    "size": 10.6,
+    "color": "#517084",
+    "bbox": [
+     845.6,
+     515.7,
+     916.7,
+     527.5
+    ]
+   },
+   {
+    "t": "Caso de Uso",
+    "font": "Arial-BoldMT",
+    "size": 16.6,
+    "color": "#247CAA",
+    "bbox": [
+     43.2,
+     83.5,
+     143.3,
+     101.9
+    ]
+   },
+   {
+    "t": "PDF · p. 47",
+    "font": "ArialMT",
+    "size": 12.7,
+    "color": "#517084",
+    "bbox": [
+     850.2,
+     83.9,
+     915.3,
+     98.1
+    ]
+   },
+   {
+    "t": "Adoptante  ·  Consultar y coordinar con el responsable.",
+    "font": "ArialMT",
+    "size": 16.6,
+    "color": "#517084",
+    "bbox": [
+     43.2,
+     113.5,
+     446.2,
+     131.9
+    ]
+   }
+  ],
+  "images": [
+   {
+    "file": "assets/img_030_s28.png",
+    "bbox": [
+     101.4,
+     143.3,
+     858.6,
+     501.0
+    ],
+    "px": [
+     2692,
+     1272
+    ]
+   }
+  ],
+  "drawings": [
+   {
+    "type": "f",
+    "rect": [
+     0.0,
+     -0.0,
+     960.0,
+     540.0
+    ],
+    "fill": "#FFFFFF",
+    "stroke": null,
+    "width": null
+   }
+  ]
+ },
+ {
+  "slide": 29,
+  "size": [
+   960.0,
+   540.0
+  ],
+  "text": [
+   {
+    "t": "HU-08 | Comunicarse con el responsable de la mascota",
+    "font": "Arial-BoldMT",
+    "size": 30.0,
+    "color": "#102D47",
+    "bbox": [
+     43.2,
+     36.5,
+     831.6,
+     70.0
+    ]
+   },
+   {
+    "t": "KuyayPet  /  29",
+    "font": "ArialMT",
+    "size": 10.6,
+    "color": "#517084",
+    "bbox": [
+     845.6,
+     515.7,
+     916.7,
+     527.5
+    ]
+   },
+   {
+    "t": "Colaboración / Comunicación · Vista 1 de 2",
+    "font": "Arial-BoldMT",
+    "size": 16.6,
+    "color": "#247CAA",
+    "bbox": [
+     43.2,
+     83.5,
+     381.6,
+     101.9
+    ]
+   },
+   {
+    "t": "PDF · p. 51",
+    "font": "ArialMT",
+    "size": 12.7,
+    "color": "#517084",
+    "bbox": [
+     850.2,
+     83.9,
+     915.3,
+     98.1
+    ]
+   }
+  ],
+  "images": [
+   {
+    "file": "assets/img_031_s29.png",
+    "bbox": [
+     51.7,
+     113.3,
+     908.3,
+     501.0
+    ],
+    "px": [
+     2379,
+     1076
+    ]
+   }
+  ],
+  "drawings": [
+   {
+    "type": "f",
+    "rect": [
+     0.0,
+     -0.0,
+     960.0,
+     540.0
+    ],
+    "fill": "#FFFFFF",
+    "stroke": null,
+    "width": null
+   }
+  ]
+ },
+ {
+  "slide": 30,
+  "size": [
+   960.0,
+   540.0
+  ],
+  "text": [
+   {
+    "t": "HU-08 | Comunicarse con el responsable de la mascota",
+    "font": "Arial-BoldMT",
+    "size": 30.0,
+    "color": "#102D47",
+    "bbox": [
+     43.2,
+     36.5,
+     831.6,
+     70.0
+    ]
+   },
+   {
+    "t": "KuyayPet  /  30",
+    "font": "ArialMT",
+    "size": 10.6,
+    "color": "#517084",
+    "bbox": [
+     845.6,
+     515.7,
+     916.7,
+     527.5
+    ]
+   },
+   {
+    "t": "Colaboración / Comunicación · Vista 2 de 2",
+    "font": "Arial-BoldMT",
+    "size": 16.6,
+    "color": "#247CAA",
+    "bbox": [
+     43.2,
+     83.5,
+     381.6,
+     101.9
+    ]
+   },
+   {
+    "t": "PDF · p. 51",
+    "font": "ArialMT",
+    "size": 12.7,
+    "color": "#517084",
+    "bbox": [
+     850.2,
+     83.9,
+     915.3,
+     98.1
+    ]
+   }
+  ],
+  "images": [
+   {
+    "file": "assets/img_032_s30.png",
+    "bbox": [
+     79.7,
+     113.3,
+     880.3,
+     501.0
+    ],
+    "px": [
+     2223,
+     1076
+    ]
+   }
+  ],
+  "drawings": [
+   {
+    "type": "f",
+    "rect": [
+     0.0,
+     -0.0,
+     960.0,
+     540.0
+    ],
+    "fill": "#FFFFFF",
+    "stroke": null,
+    "width": null
+   }
+  ]
+ },
+ {
+  "slide": 31,
+  "size": [
+   960.0,
+   540.0
+  ],
+  "text": [
+   {
+    "t": "HU-08 | Comunicarse con el responsable de la mascota",
+    "font": "Arial-BoldMT",
+    "size": 30.0,
+    "color": "#102D47",
+    "bbox": [
+     43.2,
+     36.5,
+     831.6,
+     70.0
+    ]
+   },
+   {
+    "t": "KuyayPet  /  31",
+    "font": "ArialMT",
+    "size": 10.6,
+    "color": "#517084",
+    "bbox": [
+     845.6,
+     515.7,
+     916.7,
+     527.5
+    ]
+   },
+   {
+    "t": "Componentes",
+    "font": "Arial-BoldMT",
+    "size": 16.6,
+    "color": "#247CAA",
+    "bbox": [
+     43.2,
+     83.5,
+     153.5,
+     101.9
+    ]
+   },
+   {
+    "t": "PDF · p. 50",
+    "font": "ArialMT",
+    "size": 12.7,
+    "color": "#517084",
+    "bbox": [
+     850.2,
+     83.9,
+     915.3,
+     98.1
+    ]
+   }
+  ],
+  "images": [
+   {
+    "file": "assets/img_033_s31.png",
+    "bbox": [
+     36.0,
+     138.7,
+     924.0,
+     475.6
+    ],
+    "px": [
+     2852,
+     1082
+    ]
+   }
+  ],
+  "drawings": [
+   {
+    "type": "f",
+    "rect": [
+     0.0,
+     -0.0,
+     960.0,
+     540.0
+    ],
+    "fill": "#FFFFFF",
+    "stroke": null,
+    "width": null
+   }
+  ]
+ },
+ {
+  "slide": 32,
+  "size": [
+   960.0,
+   540.0
+  ],
+  "text": [
+   {
+    "t": "HU-09 | Chat entre usuarios interesados en la misma mascota",
+    "font": "Arial-BoldMT",
+    "size": 25.4,
+    "color": "#102D47",
+    "bbox": [
+     43.2,
+     39.0,
+     791.8,
+     67.4
+    ]
+   },
+   {
+    "t": "KuyayPet  /  32",
+    "font": "ArialMT",
+    "size": 10.6,
+    "color": "#517084",
+    "bbox": [
+     845.6,
+     515.7,
+     916.7,
+     527.5
+    ]
+   },
+   {
+    "t": "Caso de Uso",
+    "font": "Arial-BoldMT",
+    "size": 16.6,
+    "color": "#247CAA",
+    "bbox": [
+     43.2,
+     83.5,
+     143.3,
+     101.9
+    ]
+   },
+   {
+    "t": "PDF · p. 53",
+    "font": "ArialMT",
+    "size": 12.7,
+    "color": "#517084",
+    "bbox": [
+     850.2,
+     83.9,
+     915.3,
+     98.1
+    ]
+   },
+   {
+    "t": "Usuario común  ·  Conversar con otros interesados en la misma mascota.",
+    "font": "ArialMT",
+    "size": 16.6,
+    "color": "#517084",
+    "bbox": [
+     43.2,
+     113.5,
+     580.8,
+     131.9
+    ]
+   }
+  ],
+  "images": [
+   {
+    "file": "assets/img_034_s32.png",
+    "bbox": [
+     101.4,
+     143.3,
+     858.6,
+     501.0
+    ],
+    "px": [
+     2692,
+     1272
+    ]
+   }
+  ],
+  "drawings": [
+   {
+    "type": "f",
+    "rect": [
+     0.0,
+     -0.0,
+     960.0,
+     540.0
+    ],
+    "fill": "#FFFFFF",
+    "stroke": null,
+    "width": null
+   }
+  ]
+ },
+ {
+  "slide": 33,
+  "size": [
+   960.0,
+   540.0
+  ],
+  "text": [
+   {
+    "t": "HU-09 | Chat entre usuarios interesados en la misma mascota",
+    "font": "Arial-BoldMT",
+    "size": 25.4,
+    "color": "#102D47",
+    "bbox": [
+     43.2,
+     39.0,
+     791.8,
+     67.4
+    ]
+   },
+   {
+    "t": "KuyayPet  /  33",
+    "font": "ArialMT",
+    "size": 10.6,
+    "color": "#517084",
+    "bbox": [
+     845.6,
+     515.7,
+     916.7,
+     527.5
+    ]
+   },
+   {
+    "t": "Colaboración / Comunicación · Vista 1 de 2",
+    "font": "Arial-BoldMT",
+    "size": 16.6,
+    "color": "#247CAA",
+    "bbox": [
+     43.2,
+     83.5,
+     381.6,
+     101.9
+    ]
+   },
+   {
+    "t": "PDF · p. 57",
+    "font": "ArialMT",
+    "size": 12.7,
+    "color": "#517084",
+    "bbox": [
+     850.2,
+     83.9,
+     915.3,
+     98.1
+    ]
+   }
+  ],
+  "images": [
+   {
+    "file": "assets/img_035_s33.png",
+    "bbox": [
+     85.3,
+     113.3,
+     874.7,
+     501.0
+    ],
+    "px": [
+     2192,
+     1076
+    ]
+   }
+  ],
+  "drawings": [
+   {
+    "type": "f",
+    "rect": [
+     0.0,
+     -0.0,
+     960.0,
+     540.0
+    ],
+    "fill": "#FFFFFF",
+    "stroke": null,
+    "width": null
+   }
+  ]
+ },
+ {
+  "slide": 34,
+  "size": [
+   960.0,
+   540.0
+  ],
+  "text": [
+   {
+    "t": "HU-09 | Chat entre usuarios interesados en la misma mascota",
+    "font": "Arial-BoldMT",
+    "size": 25.4,
+    "color": "#102D47",
+    "bbox": [
+     43.2,
+     39.0,
+     791.8,
+     67.4
+    ]
+   },
+   {
+    "t": "KuyayPet  /  34",
+    "font": "ArialMT",
+    "size": 10.6,
+    "color": "#517084",
+    "bbox": [
+     845.6,
+     515.7,
+     916.7,
+     527.5
+    ]
+   },
+   {
+    "t": "Colaboración / Comunicación · Vista 2 de 2",
+    "font": "Arial-BoldMT",
+    "size": 16.6,
+    "color": "#247CAA",
+    "bbox": [
+     43.2,
+     83.5,
+     381.6,
+     101.9
+    ]
+   },
+   {
+    "t": "PDF · p. 57",
+    "font": "ArialMT",
+    "size": 12.7,
+    "color": "#517084",
+    "bbox": [
+     850.2,
+     83.9,
+     915.3,
+     98.1
+    ]
+   }
+  ],
+  "images": [
+   {
+    "file": "assets/img_036_s34.png",
+    "bbox": [
+     45.1,
+     113.3,
+     914.9,
+     501.0
+    ],
+    "px": [
+     2415,
+     1076
+    ]
+   }
+  ],
+  "drawings": [
+   {
+    "type": "f",
+    "rect": [
+     0.0,
+     -0.0,
+     960.0,
+     540.0
+    ],
+    "fill": "#FFFFFF",
+    "stroke": null,
+    "width": null
+   }
+  ]
+ },
+ {
+  "slide": 35,
+  "size": [
+   960.0,
+   540.0
+  ],
+  "text": [
+   {
+    "t": "HU-10 | Coordinar posible adopción",
+    "font": "Arial-BoldMT",
+    "size": 30.0,
+    "color": "#102D47",
+    "bbox": [
+     43.2,
+     36.5,
+     553.4,
+     70.0
+    ]
+   },
+   {
+    "t": "KuyayPet  /  35",
+    "font": "ArialMT",
+    "size": 10.6,
+    "color": "#517084",
+    "bbox": [
+     845.6,
+     515.7,
+     916.7,
+     527.5
+    ]
+   },
+   {
+    "t": "Caso de Uso",
+    "font": "Arial-BoldMT",
+    "size": 16.6,
+    "color": "#247CAA",
+    "bbox": [
+     43.2,
+     83.5,
+     143.3,
+     101.9
+    ]
+   },
+   {
+    "t": "PDF · p. 59",
+    "font": "ArialMT",
+    "size": 12.7,
+    "color": "#517084",
+    "bbox": [
+     850.2,
+     83.9,
+     915.3,
+     98.1
+    ]
+   },
+   {
+    "t": "Adoptante  ·  Coordinar una posible adopción con el responsable.",
+    "font": "ArialMT",
+    "size": 16.6,
+    "color": "#517084",
+    "bbox": [
+     43.2,
+     113.5,
+     521.7,
+     131.9
+    ]
+   }
+  ],
+  "images": [
+   {
+    "file": "assets/img_037_s35.png",
+    "bbox": [
+     101.4,
+     143.3,
+     858.6,
+     501.0
+    ],
+    "px": [
+     2692,
+     1272
+    ]
+   }
+  ],
+  "drawings": [
+   {
+    "type": "f",
+    "rect": [
+     0.0,
+     -0.0,
+     960.0,
+     540.0
+    ],
+    "fill": "#FFFFFF",
+    "stroke": null,
+    "width": null
+   }
+  ]
+ },
+ {
+  "slide": 36,
+  "size": [
+   960.0,
+   540.0
+  ],
+  "text": [
+   {
+    "t": "HU-10 | Coordinar posible adopción",
+    "font": "Arial-BoldMT",
+    "size": 30.0,
+    "color": "#102D47",
+    "bbox": [
+     43.2,
+     36.5,
+     553.4,
+     70.0
+    ]
+   },
+   {
+    "t": "KuyayPet  /  36",
+    "font": "ArialMT",
+    "size": 10.6,
+    "color": "#517084",
+    "bbox": [
+     845.6,
+     515.7,
+     916.7,
+     527.5
+    ]
+   },
+   {
+    "t": "Actividades · Vista 1 de 2",
+    "font": "Arial-BoldMT",
+    "size": 16.6,
+    "color": "#247CAA",
+    "bbox": [
+     43.2,
+     83.5,
+     240.9,
+     101.9
+    ]
+   },
+   {
+    "t": "PDF · p. 60",
+    "font": "ArialMT",
+    "size": 12.7,
+    "color": "#517084",
+    "bbox": [
+     850.2,
+     83.9,
+     915.3,
+     98.1
+    ]
+   }
+  ],
+  "images": [
+   {
+    "file": "assets/img_038_s36.png",
+    "bbox": [
+     207.6,
+     113.3,
+     752.4,
+     501.0
+    ],
+    "px": [
+     1513,
+     1076
+    ]
+   }
+  ],
+  "drawings": [
+   {
+    "type": "f",
+    "rect": [
+     0.0,
+     -0.0,
+     960.0,
+     540.0
+    ],
+    "fill": "#FFFFFF",
+    "stroke": null,
+    "width": null
+   }
+  ]
+ },
+ {
+  "slide": 37,
+  "size": [
+   960.0,
+   540.0
+  ],
+  "text": [
+   {
+    "t": "HU-10 | Coordinar posible adopción",
+    "font": "Arial-BoldMT",
+    "size": 30.0,
+    "color": "#102D47",
+    "bbox": [
+     43.2,
+     36.5,
+     553.4,
+     70.0
+    ]
+   },
+   {
+    "t": "KuyayPet  /  37",
+    "font": "ArialMT",
+    "size": 10.6,
+    "color": "#517084",
+    "bbox": [
+     845.6,
+     515.7,
+     916.7,
+     527.5
+    ]
+   },
+   {
+    "t": "Actividades · Vista 2 de 2",
+    "font": "Arial-BoldMT",
+    "size": 16.6,
+    "color": "#247CAA",
+    "bbox": [
+     43.2,
+     83.5,
+     240.9,
+     101.9
+    ]
+   },
+   {
+    "t": "PDF · p. 60",
+    "font": "ArialMT",
+    "size": 12.7,
+    "color": "#517084",
+    "bbox": [
+     850.2,
+     83.9,
+     915.3,
+     98.1
+    ]
+   }
+  ],
+  "images": [
+   {
+    "file": "assets/img_039_s37.png",
+    "bbox": [
+     165.2,
+     113.3,
+     794.8,
+     501.0
+    ],
+    "px": [
+     2372,
+     1461
+    ]
+   }
+  ],
+  "drawings": [
+   {
+    "type": "f",
+    "rect": [
+     0.0,
+     -0.0,
+     960.0,
+     540.0
+    ],
+    "fill": "#FFFFFF",
+    "stroke": null,
+    "width": null
+   }
+  ]
+ },
+ {
+  "slide": 38,
+  "size": [
+   960.0,
+   540.0
+  ],
+  "text": [
+   {
+    "t": "HU-11 | Registrar mascota",
+    "font": "Arial-BoldMT",
+    "size": 30.0,
+    "color": "#102D47",
+    "bbox": [
+     43.2,
+     36.5,
+     414.8,
+     70.0
+    ]
+   },
+   {
+    "t": "KuyayPet  /  38",
+    "font": "ArialMT",
+    "size": 10.6,
+    "color": "#517084",
+    "bbox": [
+     845.6,
+     515.7,
+     916.7,
+     527.5
+    ]
+   },
+   {
+    "t": "Caso de Uso",
+    "font": "Arial-BoldMT",
+    "size": 16.6,
+    "color": "#247CAA",
+    "bbox": [
+     43.2,
+     83.5,
+     143.3,
+     101.9
+    ]
+   },
+   {
+    "t": "PDF · p. 65",
+    "font": "ArialMT",
+    "size": 12.7,
+    "color": "#517084",
+    "bbox": [
+     850.2,
+     83.9,
+     915.3,
+     98.1
+    ]
+   },
+   {
+    "t": "Responsable de mascota  ·  Poner una mascota disponible para adopción.",
+    "font": "ArialMT",
+    "size": 16.6,
+    "color": "#517084",
+    "bbox": [
+     43.2,
+     113.5,
+     587.7,
+     131.9
+    ]
+   }
+  ],
+  "images": [
+   {
+    "file": "assets/img_040_s38.png",
+    "bbox": [
+     191.4,
+     143.3,
+     768.6,
+     501.0
+    ],
+    "px": [
+     2052,
+     1272
+    ]
+   }
+  ],
+  "drawings": [
+   {
+    "type": "f",
+    "rect": [
+     0.0,
+     -0.0,
+     960.0,
+     540.0
+    ],
+    "fill": "#FFFFFF",
+    "stroke": null,
+    "width": null
+   }
+  ]
+ },
+ {
+  "slide": 39,
+  "size": [
+   960.0,
+   540.0
+  ],
+  "text": [
+   {
+    "t": "HU-11 | Registrar mascota",
+    "font": "Arial-BoldMT",
+    "size": 30.0,
+    "color": "#102D47",
+    "bbox": [
+     43.2,
+     36.5,
+     414.8,
+     70.0
+    ]
+   },
+   {
+    "t": "KuyayPet  /  39",
+    "font": "ArialMT",
+    "size": 10.6,
+    "color": "#517084",
+    "bbox": [
+     845.6,
+     515.7,
+     916.7,
+     527.5
+    ]
+   },
+   {
+    "t": "Actividades · Vista 1 de 3",
+    "font": "Arial-BoldMT",
+    "size": 16.6,
+    "color": "#247CAA",
+    "bbox": [
+     43.2,
+     83.5,
+     240.9,
+     101.9
+    ]
+   },
+   {
+    "t": "PDF · p. 66",
+    "font": "ArialMT",
+    "size": 12.7,
+    "color": "#517084",
+    "bbox": [
+     850.2,
+     83.9,
+     915.3,
+     98.1
+    ]
+   }
+  ],
+  "images": [
+   {
+    "file": "assets/img_041_s39.png",
+    "bbox": [
+     169.2,
+     113.3,
+     790.8,
+     501.0
+    ],
+    "px": [
+     1552,
+     968
+    ]
+   }
+  ],
+  "drawings": [
+   {
+    "type": "f",
+    "rect": [
+     0.0,
+     -0.0,
+     960.0,
+     540.0
+    ],
+    "fill": "#FFFFFF",
+    "stroke": null,
+    "width": null
+   }
+  ]
+ },
+ {
+  "slide": 40,
+  "size": [
+   960.0,
+   540.0
+  ],
+  "text": [
+   {
+    "t": "HU-11 | Registrar mascota",
+    "font": "Arial-BoldMT",
+    "size": 30.0,
+    "color": "#102D47",
+    "bbox": [
+     43.2,
+     36.5,
+     414.8,
+     70.0
+    ]
+   },
+   {
+    "t": "KuyayPet  /  40",
+    "font": "ArialMT",
+    "size": 10.6,
+    "color": "#517084",
+    "bbox": [
+     845.6,
+     515.7,
+     916.7,
+     527.5
+    ]
+   },
+   {
+    "t": "Actividades · Vista 2 de 3",
+    "font": "Arial-BoldMT",
+    "size": 16.6,
+    "color": "#247CAA",
+    "bbox": [
+     43.2,
+     83.5,
+     240.9,
+     101.9
+    ]
+   },
+   {
+    "t": "PDF · p. 66",
+    "font": "ArialMT",
+    "size": 12.7,
+    "color": "#517084",
+    "bbox": [
+     850.2,
+     83.9,
+     915.3,
+     98.1
+    ]
+   }
+  ],
+  "images": [
+   {
+    "file": "assets/img_042_s40.png",
+    "bbox": [
+     274.1,
+     113.3,
+     685.9,
+     501.0
+    ],
+    "px": [
+     1552,
+     1461
+    ]
+   }
+  ],
+  "drawings": [
+   {
+    "type": "f",
+    "rect": [
+     0.0,
+     -0.0,
+     960.0,
+     540.0
+    ],
+    "fill": "#FFFFFF",
+    "stroke": null,
+    "width": null
+   }
+  ]
+ },
+ {
+  "slide": 41,
+  "size": [
+   960.0,
+   540.0
+  ],
+  "text": [
+   {
+    "t": "HU-11 | Registrar mascota",
+    "font": "Arial-BoldMT",
+    "size": 30.0,
+    "color": "#102D47",
+    "bbox": [
+     43.2,
+     36.5,
+     414.8,
+     70.0
+    ]
+   },
+   {
+    "t": "KuyayPet  /  41",
+    "font": "ArialMT",
+    "size": 10.6,
+    "color": "#517084",
+    "bbox": [
+     845.6,
+     515.7,
+     916.7,
+     527.5
+    ]
+   },
+   {
+    "t": "Actividades · Vista 3 de 3",
+    "font": "Arial-BoldMT",
+    "size": 16.6,
+    "color": "#247CAA",
+    "bbox": [
+     43.2,
+     83.5,
+     240.9,
+     101.9
+    ]
+   },
+   {
+    "t": "PDF · p. 66",
+    "font": "ArialMT",
+    "size": 12.7,
+    "color": "#517084",
+    "bbox": [
+     850.2,
+     83.9,
+     915.3,
+     98.1
+    ]
+   }
+  ],
+  "images": [
+   {
+    "file": "assets/img_043_s41.png",
+    "bbox": [
+     195.1,
+     113.3,
+     764.9,
+     501.0
+    ],
+    "px": [
+     1552,
+     1056
+    ]
+   }
+  ],
+  "drawings": [
+   {
+    "type": "f",
+    "rect": [
+     0.0,
+     -0.0,
+     960.0,
+     540.0
+    ],
+    "fill": "#FFFFFF",
+    "stroke": null,
+    "width": null
+   }
+  ]
+ },
+ {
+  "slide": 42,
+  "size": [
+   960.0,
+   540.0
+  ],
+  "text": [
+   {
+    "t": "HU-12 | Editar información textual de una mascota",
+    "font": "Arial-BoldMT",
+    "size": 30.0,
+    "color": "#102D47",
+    "bbox": [
+     43.2,
+     36.5,
+     760.1,
+     70.0
+    ]
+   },
+   {
+    "t": "KuyayPet  /  42",
+    "font": "ArialMT",
+    "size": 10.6,
+    "color": "#517084",
+    "bbox": [
+     845.6,
+     515.7,
+     916.7,
+     527.5
+    ]
+   },
+   {
+    "t": "Actividades · Vista 1 de 2",
+    "font": "Arial-BoldMT",
+    "size": 16.6,
+    "color": "#247CAA",
+    "bbox": [
+     43.2,
+     83.5,
+     240.9,
+     101.9
+    ]
+   },
+   {
+    "t": "PDF · p. 72",
+    "font": "ArialMT",
+    "size": 12.7,
+    "color": "#517084",
+    "bbox": [
+     850.2,
+     83.9,
+     915.3,
+     98.1
+    ]
+   },
+   {
+    "t": "Responsable de mascota  ·  Mantener actualizada la información de la mascota.",
+    "font": "ArialMT",
+    "size": 16.6,
+    "color": "#517084",
+    "bbox": [
+     43.2,
+     113.5,
+     629.1,
+     131.9
+    ]
+   }
+  ],
+  "images": [
+   {
+    "file": "assets/img_044_s42.png",
+    "bbox": [
+     228.6,
+     143.3,
+     731.4,
+     501.0
+    ],
+    "px": [
+     1396,
+     993
+    ]
+   }
+  ],
+  "drawings": [
+   {
+    "type": "f",
+    "rect": [
+     0.0,
+     -0.0,
+     960.0,
+     540.0
+    ],
+    "fill": "#FFFFFF",
+    "stroke": null,
+    "width": null
+   }
+  ]
+ },
+ {
+  "slide": 43,
+  "size": [
+   960.0,
+   540.0
+  ],
+  "text": [
+   {
+    "t": "HU-12 | Editar información textual de una mascota",
+    "font": "Arial-BoldMT",
+    "size": 30.0,
+    "color": "#102D47",
+    "bbox": [
+     43.2,
+     36.5,
+     760.1,
+     70.0
+    ]
+   },
+   {
+    "t": "KuyayPet  /  43",
+    "font": "ArialMT",
+    "size": 10.6,
+    "color": "#517084",
+    "bbox": [
+     845.6,
+     515.7,
+     916.7,
+     527.5
+    ]
+   },
+   {
+    "t": "Actividades · Vista 2 de 2",
+    "font": "Arial-BoldMT",
+    "size": 16.6,
+    "color": "#247CAA",
+    "bbox": [
+     43.2,
+     83.5,
+     240.9,
+     101.9
+    ]
+   },
+   {
+    "t": "PDF · p. 72",
+    "font": "ArialMT",
+    "size": 12.7,
+    "color": "#517084",
+    "bbox": [
+     850.2,
+     83.9,
+     915.3,
+     98.1
+    ]
+   }
+  ],
+  "images": [
+   {
+    "file": "assets/img_045_s43.png",
+    "bbox": [
+     165.2,
+     113.3,
+     794.8,
+     501.0
+    ],
+    "px": [
+     2372,
+     1461
+    ]
+   }
+  ],
+  "drawings": [
+   {
+    "type": "f",
+    "rect": [
+     0.0,
+     -0.0,
+     960.0,
+     540.0
+    ],
+    "fill": "#FFFFFF",
+    "stroke": null,
+    "width": null
+   }
+  ]
+ },
+ {
+  "slide": 44,
+  "size": [
+   960.0,
+   540.0
+  ],
+  "text": [
+   {
+    "t": "HU-12 | Editar información textual de una mascota",
+    "font": "Arial-BoldMT",
+    "size": 30.0,
+    "color": "#102D47",
+    "bbox": [
+     43.2,
+     36.5,
+     760.1,
+     70.0
+    ]
+   },
+   {
+    "t": "KuyayPet  /  44",
+    "font": "ArialMT",
+    "size": 10.6,
+    "color": "#517084",
+    "bbox": [
+     845.6,
+     515.7,
+     916.7,
+     527.5
+    ]
+   },
+   {
+    "t": "Componentes",
+    "font": "Arial-BoldMT",
+    "size": 16.6,
+    "color": "#247CAA",
+    "bbox": [
+     43.2,
+     83.5,
+     153.5,
+     101.9
+    ]
+   },
+   {
+    "t": "PDF · p. 74",
+    "font": "ArialMT",
+    "size": 12.7,
+    "color": "#517084",
+    "bbox": [
+     850.2,
+     83.9,
+     915.3,
+     98.1
+    ]
+   }
+  ],
+  "images": [
+   {
+    "file": "assets/img_046_s44.png",
+    "bbox": [
+     36.0,
+     138.7,
+     924.0,
+     475.6
+    ],
+    "px": [
+     2852,
+     1082
+    ]
+   }
+  ],
+  "drawings": [
+   {
+    "type": "f",
+    "rect": [
+     0.0,
+     -0.0,
+     960.0,
+     540.0
+    ],
+    "fill": "#FFFFFF",
+    "stroke": null,
+    "width": null
+   }
+  ]
+ },
+ {
+  "slide": 45,
+  "size": [
+   960.0,
+   540.0
+  ],
+  "text": [
+   {
+    "t": "HU-13 | Notificación de interés en mascota",
+    "font": "Arial-BoldMT",
+    "size": 30.0,
+    "color": "#102D47",
+    "bbox": [
+     43.2,
+     36.5,
+     650.0,
+     70.0
+    ]
+   },
+   {
+    "t": "KuyayPet  /  45",
+    "font": "ArialMT",
+    "size": 10.6,
+    "color": "#517084",
+    "bbox": [
+     845.6,
+     515.7,
+     916.7,
+     527.5
+    ]
+   },
+   {
+    "t": "Caso de Uso",
+    "font": "Arial-BoldMT",
+    "size": 16.6,
+    "color": "#247CAA",
+    "bbox": [
+     43.2,
+     83.5,
+     143.3,
+     101.9
+    ]
+   },
+   {
+    "t": "PDF · p. 77",
+    "font": "ArialMT",
+    "size": 12.7,
+    "color": "#517084",
+    "bbox": [
+     850.2,
+     83.9,
+     915.3,
+     98.1
+    ]
+   },
+   {
+    "t": "Responsable de mascota  ·  Responder a tiempo al interés de un adoptante.",
+    "font": "ArialMT",
+    "size": 16.6,
+    "color": "#517084",
+    "bbox": [
+     43.2,
+     113.5,
+     600.7,
+     131.9
+    ]
+   }
+  ],
+  "images": [
+   {
+    "file": "assets/img_047_s45.png",
+    "bbox": [
+     101.4,
+     143.3,
+     858.6,
+     501.0
+    ],
+    "px": [
+     2692,
+     1272
+    ]
+   }
+  ],
+  "drawings": [
+   {
+    "type": "f",
+    "rect": [
+     0.0,
+     -0.0,
+     960.0,
+     540.0
+    ],
+    "fill": "#FFFFFF",
+    "stroke": null,
+    "width": null
+   }
+  ]
+ },
+ {
+  "slide": 46,
+  "size": [
+   960.0,
+   540.0
+  ],
+  "text": [
+   {
+    "t": "HU-13 | Notificación de interés en mascota",
+    "font": "Arial-BoldMT",
+    "size": 30.0,
+    "color": "#102D47",
+    "bbox": [
+     43.2,
+     36.5,
+     650.0,
+     70.0
+    ]
+   },
+   {
+    "t": "KuyayPet  /  46",
+    "font": "ArialMT",
+    "size": 10.6,
+    "color": "#517084",
+    "bbox": [
+     845.6,
+     515.7,
+     916.7,
+     527.5
+    ]
+   },
+   {
+    "t": "Colaboración / Comunicación · Vista 1 de 2",
+    "font": "Arial-BoldMT",
+    "size": 16.6,
+    "color": "#247CAA",
+    "bbox": [
+     43.2,
+     83.5,
+     381.6,
+     101.9
+    ]
+   },
+   {
+    "t": "PDF · p. 81",
+    "font": "ArialMT",
+    "size": 12.7,
+    "color": "#517084",
+    "bbox": [
+     850.2,
+     83.9,
+     915.3,
+     98.1
+    ]
+   }
+  ],
+  "images": [
+   {
+    "file": "assets/img_048_s46.png",
+    "bbox": [
+     56.3,
+     113.3,
+     903.7,
+     501.0
+    ],
+    "px": [
+     2353,
+     1076
+    ]
+   }
+  ],
+  "drawings": [
+   {
+    "type": "f",
+    "rect": [
+     0.0,
+     -0.0,
+     960.0,
+     540.0
+    ],
+    "fill": "#FFFFFF",
+    "stroke": null,
+    "width": null
+   }
+  ]
+ },
+ {
+  "slide": 47,
+  "size": [
+   960.0,
+   540.0
+  ],
+  "text": [
+   {
+    "t": "HU-13 | Notificación de interés en mascota",
+    "font": "Arial-BoldMT",
+    "size": 30.0,
+    "color": "#102D47",
+    "bbox": [
+     43.2,
+     36.5,
+     650.0,
+     70.0
+    ]
+   },
+   {
+    "t": "KuyayPet  /  47",
+    "font": "ArialMT",
+    "size": 10.6,
+    "color": "#517084",
+    "bbox": [
+     845.6,
+     515.7,
+     916.7,
+     527.5
+    ]
+   },
+   {
+    "t": "Colaboración / Comunicación · Vista 2 de 2",
+    "font": "Arial-BoldMT",
+    "size": 16.6,
+    "color": "#247CAA",
+    "bbox": [
+     43.2,
+     83.5,
+     381.6,
+     101.9
+    ]
+   },
+   {
+    "t": "PDF · p. 81",
+    "font": "ArialMT",
+    "size": 12.7,
+    "color": "#517084",
+    "bbox": [
+     850.2,
+     83.9,
+     915.3,
+     98.1
+    ]
+   }
+  ],
+  "images": [
+   {
+    "file": "assets/img_049_s47.png",
+    "bbox": [
+     36.0,
+     128.5,
+     924.0,
+     485.8
+    ],
+    "px": [
+     2466,
+     992
+    ]
+   }
+  ],
+  "drawings": [
+   {
+    "type": "f",
+    "rect": [
+     0.0,
+     -0.0,
+     960.0,
+     540.0
+    ],
+    "fill": "#FFFFFF",
+    "stroke": null,
+    "width": null
+   }
+  ]
+ },
+ {
+  "slide": 48,
+  "size": [
+   960.0,
+   540.0
+  ],
+  "text": [
+   {
+    "t": "HU-13 | Notificación de interés en mascota",
+    "font": "Arial-BoldMT",
+    "size": 30.0,
+    "color": "#102D47",
+    "bbox": [
+     43.2,
+     36.5,
+     650.0,
+     70.0
+    ]
+   },
+   {
+    "t": "KuyayPet  /  48",
+    "font": "ArialMT",
+    "size": 10.6,
+    "color": "#517084",
+    "bbox": [
+     845.6,
+     515.7,
+     916.7,
+     527.5
+    ]
+   },
+   {
+    "t": "Componentes",
+    "font": "Arial-BoldMT",
+    "size": 16.6,
+    "color": "#247CAA",
+    "bbox": [
+     43.2,
+     83.5,
+     153.5,
+     101.9
+    ]
+   },
+   {
+    "t": "PDF · p. 80",
+    "font": "ArialMT",
+    "size": 12.7,
+    "color": "#517084",
+    "bbox": [
+     850.2,
+     83.9,
+     915.3,
+     98.1
+    ]
+   }
+  ],
+  "images": [
+   {
+    "file": "assets/img_050_s48.png",
+    "bbox": [
+     36.0,
+     138.7,
+     924.0,
+     475.6
+    ],
+    "px": [
+     2852,
+     1082
+    ]
+   }
+  ],
+  "drawings": [
+   {
+    "type": "f",
+    "rect": [
+     0.0,
+     -0.0,
+     960.0,
+     540.0
+    ],
+    "fill": "#FFFFFF",
+    "stroke": null,
+    "width": null
+   }
+  ]
+ },
+ {
+  "slide": 49,
+  "size": [
+   960.0,
+   540.0
+  ],
+  "text": [
+   {
+    "t": "HU-14 | Consulta de información sobre adopción",
+    "font": "Arial-BoldMT",
+    "size": 30.0,
+    "color": "#102D47",
+    "bbox": [
+     43.2,
+     36.5,
+     738.4,
+     70.0
+    ]
+   },
+   {
+    "t": "KuyayPet  /  49",
+    "font": "ArialMT",
+    "size": 10.6,
+    "color": "#517084",
+    "bbox": [
+     845.6,
+     515.7,
+     916.7,
+     527.5
+    ]
+   },
+   {
+    "t": "Actividades · Vista 1 de 2",
+    "font": "Arial-BoldMT",
+    "size": 16.6,
+    "color": "#247CAA",
+    "bbox": [
+     43.2,
+     83.5,
+     240.9,
+     101.9
+    ]
+   },
+   {
+    "t": "PDF · p. 84",
+    "font": "ArialMT",
+    "size": 12.7,
+    "color": "#517084",
+    "bbox": [
+     850.2,
+     83.9,
+     915.3,
+     98.1
+    ]
+   },
+   {
+    "t": "Usuario común  ·  Consultar requisitos y orientación sobre adopción.",
+    "font": "ArialMT",
+    "size": 16.6,
+    "color": "#517084",
+    "bbox": [
+     43.2,
+     113.5,
+     543.0,
+     131.9
+    ]
+   }
+  ],
+  "images": [
+   {
+    "file": "assets/img_051_s49.png",
+    "bbox": [
+     50.0,
+     143.3,
+     910.0,
+     501.0
+    ],
+    "px": [
+     3192,
+     1328
+    ]
+   }
+  ],
+  "drawings": [
+   {
+    "type": "f",
+    "rect": [
+     0.0,
+     -0.0,
+     960.0,
+     540.0
+    ],
+    "fill": "#FFFFFF",
+    "stroke": null,
+    "width": null
+   }
+  ]
+ },
+ {
+  "slide": 50,
+  "size": [
+   960.0,
+   540.0
+  ],
+  "text": [
+   {
+    "t": "HU-14 | Consulta de información sobre adopción",
+    "font": "Arial-BoldMT",
+    "size": 30.0,
+    "color": "#102D47",
+    "bbox": [
+     43.2,
+     36.5,
+     738.4,
+     70.0
+    ]
+   },
+   {
+    "t": "KuyayPet  /  50",
+    "font": "ArialMT",
+    "size": 10.6,
+    "color": "#517084",
+    "bbox": [
+     845.6,
+     515.7,
+     916.7,
+     527.5
+    ]
+   },
+   {
+    "t": "Actividades · Vista 2 de 2",
+    "font": "Arial-BoldMT",
+    "size": 16.6,
+    "color": "#247CAA",
+    "bbox": [
+     43.2,
+     83.5,
+     240.9,
+     101.9
+    ]
+   },
+   {
+    "t": "PDF · p. 84",
+    "font": "ArialMT",
+    "size": 12.7,
+    "color": "#517084",
+    "bbox": [
+     850.2,
+     83.9,
+     915.3,
+     98.1
+    ]
+   }
+  ],
+  "images": [
+   {
+    "file": "assets/img_052_s50.png",
+    "bbox": [
+     69.1,
+     113.3,
+     890.9,
+     501.0
+    ],
+    "px": [
+     2282,
+     1076
+    ]
+   }
+  ],
+  "drawings": [
+   {
+    "type": "f",
+    "rect": [
+     0.0,
+     -0.0,
+     960.0,
+     540.0
+    ],
+    "fill": "#FFFFFF",
+    "stroke": null,
+    "width": null
+   }
+  ]
+ },
+ {
+  "slide": 51,
+  "size": [
+   960.0,
+   540.0
+  ],
+  "text": [
+   {
+    "t": "HU-15 | Recuperación de contraseña",
+    "font": "Arial-BoldMT",
+    "size": 30.0,
+    "color": "#102D47",
+    "bbox": [
+     43.2,
+     36.5,
+     564.9,
+     70.0
+    ]
+   },
+   {
+    "t": "KuyayPet  /  51",
+    "font": "ArialMT",
+    "size": 10.6,
+    "color": "#517084",
+    "bbox": [
+     845.6,
+     515.7,
+     916.7,
+     527.5
+    ]
+   },
+   {
+    "t": "Actividades · Vista 1 de 2",
+    "font": "Arial-BoldMT",
+    "size": 16.6,
+    "color": "#247CAA",
+    "bbox": [
+     43.2,
+     83.5,
+     240.9,
+     101.9
+    ]
+   },
+   {
+    "t": "PDF · p. 90",
+    "font": "ArialMT",
+    "size": 12.7,
+    "color": "#517084",
+    "bbox": [
+     850.2,
+     83.9,
+     915.3,
+     98.1
+    ]
+   },
+   {
+    "t": "Usuario común  ·  Recuperar el acceso a la cuenta.",
+    "font": "ArialMT",
+    "size": 16.6,
+    "color": "#517084",
+    "bbox": [
+     43.2,
+     113.5,
+     418.7,
+     131.9
+    ]
+   }
+  ],
+  "images": [
+   {
+    "file": "assets/img_053_s51.png",
+    "bbox": [
+     234.5,
+     143.3,
+     725.5,
+     501.0
+    ],
+    "px": [
+     1363,
+     993
+    ]
+   }
+  ],
+  "drawings": [
+   {
+    "type": "f",
+    "rect": [
+     0.0,
+     -0.0,
+     960.0,
+     540.0
+    ],
+    "fill": "#FFFFFF",
+    "stroke": null,
+    "width": null
+   }
+  ]
+ },
+ {
+  "slide": 52,
+  "size": [
+   960.0,
+   540.0
+  ],
+  "text": [
+   {
+    "t": "HU-15 | Recuperación de contraseña",
+    "font": "Arial-BoldMT",
+    "size": 30.0,
+    "color": "#102D47",
+    "bbox": [
+     43.2,
+     36.5,
+     564.9,
+     70.0
+    ]
+   },
+   {
+    "t": "KuyayPet  /  52",
+    "font": "ArialMT",
+    "size": 10.6,
+    "color": "#517084",
+    "bbox": [
+     845.6,
+     515.7,
+     916.7,
+     527.5
+    ]
+   },
+   {
+    "t": "Actividades · Vista 2 de 2",
+    "font": "Arial-BoldMT",
+    "size": 16.6,
+    "color": "#247CAA",
+    "bbox": [
+     43.2,
+     83.5,
+     240.9,
+     101.9
+    ]
+   },
+   {
+    "t": "PDF · p. 90",
+    "font": "ArialMT",
+    "size": 12.7,
+    "color": "#517084",
+    "bbox": [
+     850.2,
+     83.9,
+     915.3,
+     98.1
+    ]
+   }
+  ],
+  "images": [
+   {
+    "file": "assets/img_054_s52.png",
+    "bbox": [
+     165.2,
+     113.3,
+     794.8,
+     501.0
+    ],
+    "px": [
+     2372,
+     1461
+    ]
+   }
+  ],
+  "drawings": [
+   {
+    "type": "f",
+    "rect": [
+     0.0,
+     -0.0,
+     960.0,
+     540.0
+    ],
+    "fill": "#FFFFFF",
+    "stroke": null,
+    "width": null
+   }
+  ]
+ },
+ {
+  "slide": 53,
+  "size": [
+   960.0,
+   540.0
+  ],
+  "text": [
+   {
+    "t": "HU-15 | Recuperación de contraseña",
+    "font": "Arial-BoldMT",
+    "size": 30.0,
+    "color": "#102D47",
+    "bbox": [
+     43.2,
+     36.5,
+     564.9,
+     70.0
+    ]
+   },
+   {
+    "t": "KuyayPet  /  53",
+    "font": "ArialMT",
+    "size": 10.6,
+    "color": "#517084",
+    "bbox": [
+     845.6,
+     515.7,
+     916.7,
+     527.5
+    ]
+   },
+   {
+    "t": "Componentes",
+    "font": "Arial-BoldMT",
+    "size": 16.6,
+    "color": "#247CAA",
+    "bbox": [
+     43.2,
+     83.5,
+     153.5,
+     101.9
+    ]
+   },
+   {
+    "t": "PDF · p. 92",
+    "font": "ArialMT",
+    "size": 12.7,
+    "color": "#517084",
+    "bbox": [
+     850.2,
+     83.9,
+     915.3,
+     98.1
+    ]
+   }
+  ],
+  "images": [
+   {
+    "file": "assets/img_055_s53.png",
+    "bbox": [
+     36.0,
+     183.7,
+     924.0,
+     430.6
+    ],
+    "px": [
+     2466,
+     685
+    ]
+   }
+  ],
+  "drawings": [
+   {
+    "type": "f",
+    "rect": [
+     0.0,
+     -0.0,
+     960.0,
+     540.0
+    ],
+    "fill": "#FFFFFF",
+    "stroke": null,
+    "width": null
+   }
+  ]
+ },
+ {
+  "slide": 54,
+  "size": [
+   960.0,
+   540.0
+  ],
+  "text": [
+   {
+    "t": "HU-16 | Registro visual y etiquetado de mascotas",
+    "font": "Arial-BoldMT",
+    "size": 30.0,
+    "color": "#102D47",
+    "bbox": [
+     43.2,
+     36.5,
+     745.0,
+     70.0
+    ]
+   },
+   {
+    "t": "KuyayPet  /  54",
+    "font": "ArialMT",
+    "size": 10.6,
+    "color": "#517084",
+    "bbox": [
+     845.6,
+     515.7,
+     916.7,
+     527.5
+    ]
+   },
+   {
+    "t": "Actividades · Vista 1 de 2",
+    "font": "Arial-BoldMT",
+    "size": 16.6,
+    "color": "#247CAA",
+    "bbox": [
+     43.2,
+     83.5,
+     240.9,
+     101.9
+    ]
+   },
+   {
+    "t": "PDF · p. 96",
+    "font": "ArialMT",
+    "size": 12.7,
+    "color": "#517084",
+    "bbox": [
+     850.2,
+     83.9,
+     915.3,
+     98.1
+    ]
+   },
+   {
+    "t": "Responsable de mascota  ·  Presentar la mascota con fotografías y etiquetas.",
+    "font": "ArialMT",
+    "size": 16.6,
+    "color": "#517084",
+    "bbox": [
+     43.2,
+     113.5,
+     611.2,
+     131.9
+    ]
+   }
+  ],
+  "images": [
+   {
+    "file": "assets/img_056_s54.png",
+    "bbox": [
+     141.7,
+     143.3,
+     818.3,
+     501.0
+    ],
+    "px": [
+     1879,
+     993
+    ]
+   }
+  ],
+  "drawings": [
+   {
+    "type": "f",
+    "rect": [
+     0.0,
+     -0.0,
+     960.0,
+     540.0
+    ],
+    "fill": "#FFFFFF",
+    "stroke": null,
+    "width": null
+   }
+  ]
+ },
+ {
+  "slide": 55,
+  "size": [
+   960.0,
+   540.0
+  ],
+  "text": [
+   {
+    "t": "HU-16 | Registro visual y etiquetado de mascotas",
+    "font": "Arial-BoldMT",
+    "size": 30.0,
+    "color": "#102D47",
+    "bbox": [
+     43.2,
+     36.5,
+     745.0,
+     70.0
+    ]
+   },
+   {
+    "t": "KuyayPet  /  55",
+    "font": "ArialMT",
+    "size": 10.6,
+    "color": "#517084",
+    "bbox": [
+     845.6,
+     515.7,
+     916.7,
+     527.5
+    ]
+   },
+   {
+    "t": "Actividades · Vista 2 de 2",
+    "font": "Arial-BoldMT",
+    "size": 16.6,
+    "color": "#247CAA",
+    "bbox": [
+     43.2,
+     83.5,
+     240.9,
+     101.9
+    ]
+   },
+   {
+    "t": "PDF · p. 96",
+    "font": "ArialMT",
+    "size": 12.7,
+    "color": "#517084",
+    "bbox": [
+     850.2,
+     83.9,
+     915.3,
+     98.1
+    ]
+   }
+  ],
+  "images": [
+   {
+    "file": "assets/img_057_s55.png",
+    "bbox": [
+     69.1,
+     113.3,
+     890.9,
+     501.0
+    ],
+    "px": [
+     2282,
+     1076
+    ]
+   }
+  ],
+  "drawings": [
+   {
+    "type": "f",
+    "rect": [
+     0.0,
+     -0.0,
+     960.0,
+     540.0
+    ],
+    "fill": "#FFFFFF",
+    "stroke": null,
+    "width": null
+   }
+  ]
+ },
+ {
+  "slide": 56,
+  "size": [
+   960.0,
+   540.0
+  ],
+  "text": [
+   {
+    "t": "HU-16 | Registro visual y etiquetado de mascotas",
+    "font": "Arial-BoldMT",
+    "size": 30.0,
+    "color": "#102D47",
+    "bbox": [
+     43.2,
+     36.5,
+     745.0,
+     70.0
+    ]
+   },
+   {
+    "t": "KuyayPet  /  56",
+    "font": "ArialMT",
+    "size": 10.6,
+    "color": "#517084",
+    "bbox": [
+     845.6,
+     515.7,
+     916.7,
+     527.5
+    ]
+   },
+   {
+    "t": "Componentes",
+    "font": "Arial-BoldMT",
+    "size": 16.6,
+    "color": "#247CAA",
+    "bbox": [
+     43.2,
+     83.5,
+     153.5,
+     101.9
+    ]
+   },
+   {
+    "t": "PDF · p. 98",
+    "font": "ArialMT",
+    "size": 12.7,
+    "color": "#517084",
+    "bbox": [
+     850.2,
+     83.9,
+     915.3,
+     98.1
+    ]
+   }
+  ],
+  "images": [
+   {
+    "file": "assets/img_058_s56.png",
+    "bbox": [
+     36.0,
+     183.7,
+     924.0,
+     430.6
+    ],
+    "px": [
+     2466,
+     685
+    ]
+   }
+  ],
+  "drawings": [
+   {
+    "type": "f",
+    "rect": [
+     0.0,
+     -0.0,
+     960.0,
+     540.0
+    ],
+    "fill": "#FFFFFF",
+    "stroke": null,
+    "width": null
+   }
+  ]
+ },
+ {
+  "slide": 57,
+  "size": [
+   960.0,
+   540.0
+  ],
+  "text": [
+   {
+    "t": "HU-17 | Guardado de mascotas favoritas",
+    "font": "Arial-BoldMT",
+    "size": 30.0,
+    "color": "#102D47",
+    "bbox": [
+     43.2,
+     36.5,
+     619.8,
+     70.0
+    ]
+   },
+   {
+    "t": "KuyayPet  /  57",
+    "font": "ArialMT",
+    "size": 10.6,
+    "color": "#517084",
+    "bbox": [
+     845.6,
+     515.7,
+     916.7,
+     527.5
+    ]
+   },
+   {
+    "t": "Actividades · Vista 1 de 2",
+    "font": "Arial-BoldMT",
+    "size": 16.6,
+    "color": "#247CAA",
+    "bbox": [
+     43.2,
+     83.5,
+     240.9,
+     101.9
+    ]
+   },
+   {
+    "t": "PDF · p. 102",
+    "font": "ArialMT",
+    "size": 12.7,
+    "color": "#517084",
+    "bbox": [
+     843.2,
+     83.9,
+     915.3,
+     98.1
+    ]
+   },
+   {
+    "t": "Adoptante  ·  Guardar mascotas para revisarlas después.",
+    "font": "ArialMT",
+    "size": 16.6,
+    "color": "#517084",
+    "bbox": [
+     43.2,
+     113.5,
+     461.8,
+     131.9
+    ]
+   }
+  ],
+  "images": [
+   {
+    "file": "assets/img_059_s57.png",
+    "bbox": [
+     228.6,
+     143.3,
+     731.4,
+     501.0
+    ],
+    "px": [
+     1396,
+     993
+    ]
+   }
+  ],
+  "drawings": [
+   {
+    "type": "f",
+    "rect": [
+     0.0,
+     -0.0,
+     960.0,
+     540.0
+    ],
+    "fill": "#FFFFFF",
+    "stroke": null,
+    "width": null
+   }
+  ]
+ },
+ {
+  "slide": 58,
+  "size": [
+   960.0,
+   540.0
+  ],
+  "text": [
+   {
+    "t": "HU-17 | Guardado de mascotas favoritas",
+    "font": "Arial-BoldMT",
+    "size": 30.0,
+    "color": "#102D47",
+    "bbox": [
+     43.2,
+     36.5,
+     619.8,
+     70.0
+    ]
+   },
+   {
+    "t": "KuyayPet  /  58",
+    "font": "ArialMT",
+    "size": 10.6,
+    "color": "#517084",
+    "bbox": [
+     845.6,
+     515.7,
+     916.7,
+     527.5
+    ]
+   },
+   {
+    "t": "Actividades · Vista 2 de 2",
+    "font": "Arial-BoldMT",
+    "size": 16.6,
+    "color": "#247CAA",
+    "bbox": [
+     43.2,
+     83.5,
+     240.9,
+     101.9
+    ]
+   },
+   {
+    "t": "PDF · p. 102",
+    "font": "ArialMT",
+    "size": 12.7,
+    "color": "#517084",
+    "bbox": [
+     843.2,
+     83.9,
+     915.3,
+     98.1
+    ]
+   }
+  ],
+  "images": [
+   {
+    "file": "assets/img_060_s58.png",
+    "bbox": [
+     165.2,
+     113.3,
+     794.8,
+     501.0
+    ],
+    "px": [
+     2372,
+     1461
+    ]
+   }
+  ],
+  "drawings": [
+   {
+    "type": "f",
+    "rect": [
+     0.0,
+     -0.0,
+     960.0,
+     540.0
+    ],
+    "fill": "#FFFFFF",
+    "stroke": null,
+    "width": null
+   }
+  ]
+ },
+ {
+  "slide": 59,
+  "size": [
+   960.0,
+   540.0
+  ],
+  "text": [
+   {
+    "t": "HU-17 | Guardado de mascotas favoritas",
+    "font": "Arial-BoldMT",
+    "size": 30.0,
+    "color": "#102D47",
+    "bbox": [
+     43.2,
+     36.5,
+     619.8,
+     70.0
+    ]
+   },
+   {
+    "t": "KuyayPet  /  59",
+    "font": "ArialMT",
+    "size": 10.6,
+    "color": "#517084",
+    "bbox": [
+     845.6,
+     515.7,
+     916.7,
+     527.5
+    ]
+   },
+   {
+    "t": "Componentes",
+    "font": "Arial-BoldMT",
+    "size": 16.6,
+    "color": "#247CAA",
+    "bbox": [
+     43.2,
+     83.5,
+     153.5,
+     101.9
+    ]
+   },
+   {
+    "t": "PDF · p. 104",
+    "font": "ArialMT",
+    "size": 12.7,
+    "color": "#517084",
+    "bbox": [
+     843.2,
+     83.9,
+     915.3,
+     98.1
+    ]
+   }
+  ],
+  "images": [
+   {
+    "file": "assets/img_061_s59.png",
+    "bbox": [
+     36.0,
+     138.7,
+     924.0,
+     475.6
+    ],
+    "px": [
+     2852,
+     1082
+    ]
+   }
+  ],
+  "drawings": [
+   {
+    "type": "f",
+    "rect": [
+     0.0,
+     -0.0,
+     960.0,
+     540.0
+    ],
+    "fill": "#FFFFFF",
+    "stroke": null,
+    "width": null
+   }
+  ]
+ },
+ {
+  "slide": 60,
+  "size": [
+   960.0,
+   540.0
+  ],
+  "text": [
+   {
+    "t": "HU-18 | Historial de mascotas de interés",
+    "font": "Arial-BoldMT",
+    "size": 30.0,
+    "color": "#102D47",
+    "bbox": [
+     43.2,
+     36.5,
+     614.8,
+     70.0
+    ]
+   },
+   {
+    "t": "KuyayPet  /  60",
+    "font": "ArialMT",
+    "size": 10.6,
+    "color": "#517084",
+    "bbox": [
+     845.6,
+     515.7,
+     916.7,
+     527.5
+    ]
+   },
+   {
+    "t": "Actividades · Vista 1 de 2",
+    "font": "Arial-BoldMT",
+    "size": 16.6,
+    "color": "#247CAA",
+    "bbox": [
+     43.2,
+     83.5,
+     240.9,
+     101.9
+    ]
+   },
+   {
+    "t": "PDF · p. 108",
+    "font": "ArialMT",
+    "size": 12.7,
+    "color": "#517084",
+    "bbox": [
+     843.2,
+     83.9,
+     915.3,
+     98.1
+    ]
+   },
+   {
+    "t": "Adoptante  ·  Consultar las mascotas que recibieron Me gusta.",
+    "font": "ArialMT",
+    "size": 16.6,
+    "color": "#517084",
+    "bbox": [
+     43.2,
+     113.5,
+     499.3,
+     131.9
+    ]
+   }
+  ],
+  "images": [
+   {
+    "file": "assets/img_062_s60.png",
+    "bbox": [
+     141.7,
+     143.3,
+     818.3,
+     501.0
+    ],
+    "px": [
+     1879,
+     993
+    ]
+   }
+  ],
+  "drawings": [
+   {
+    "type": "f",
+    "rect": [
+     0.0,
+     -0.0,
+     960.0,
+     540.0
+    ],
+    "fill": "#FFFFFF",
+    "stroke": null,
+    "width": null
+   }
+  ]
+ },
+ {
+  "slide": 61,
+  "size": [
+   960.0,
+   540.0
+  ],
+  "text": [
+   {
+    "t": "HU-18 | Historial de mascotas de interés",
+    "font": "Arial-BoldMT",
+    "size": 30.0,
+    "color": "#102D47",
+    "bbox": [
+     43.2,
+     36.5,
+     614.8,
+     70.0
+    ]
+   },
+   {
+    "t": "KuyayPet  /  61",
+    "font": "ArialMT",
+    "size": 10.6,
+    "color": "#517084",
+    "bbox": [
+     845.6,
+     515.7,
+     916.7,
+     527.5
+    ]
+   },
+   {
+    "t": "Actividades · Vista 2 de 2",
+    "font": "Arial-BoldMT",
+    "size": 16.6,
+    "color": "#247CAA",
+    "bbox": [
+     43.2,
+     83.5,
+     240.9,
+     101.9
+    ]
+   },
+   {
+    "t": "PDF · p. 108",
+    "font": "ArialMT",
+    "size": 12.7,
+    "color": "#517084",
+    "bbox": [
+     843.2,
+     83.9,
+     915.3,
+     98.1
+    ]
+   }
+  ],
+  "images": [
+   {
+    "file": "assets/img_063_s61.png",
+    "bbox": [
+     36.0,
+     147.7,
+     924.0,
+     466.6
+    ],
+    "px": [
+     3192,
+     1146
+    ]
+   }
+  ],
+  "drawings": [
+   {
+    "type": "f",
+    "rect": [
+     0.0,
+     -0.0,
+     960.0,
+     540.0
+    ],
+    "fill": "#FFFFFF",
+    "stroke": null,
+    "width": null
+   }
+  ]
+ },
+ {
+  "slide": 62,
+  "size": [
+   960.0,
+   540.0
+  ],
+  "text": [
+   {
+    "t": "HU-18 | Historial de mascotas de interés",
+    "font": "Arial-BoldMT",
+    "size": 30.0,
+    "color": "#102D47",
+    "bbox": [
+     43.2,
+     36.5,
+     614.8,
+     70.0
+    ]
+   },
+   {
+    "t": "KuyayPet  /  62",
+    "font": "ArialMT",
+    "size": 10.6,
+    "color": "#517084",
+    "bbox": [
+     845.6,
+     515.7,
+     916.7,
+     527.5
+    ]
+   },
+   {
+    "t": "Componentes",
+    "font": "Arial-BoldMT",
+    "size": 16.6,
+    "color": "#247CAA",
+    "bbox": [
+     43.2,
+     83.5,
+     153.5,
+     101.9
+    ]
+   },
+   {
+    "t": "PDF · p. 110",
+    "font": "ArialMT",
+    "size": 12.7,
+    "color": "#517084",
+    "bbox": [
+     844.1,
+     83.9,
+     915.3,
+     98.1
+    ]
+   }
+  ],
+  "images": [
+   {
+    "file": "assets/img_064_s62.png",
+    "bbox": [
+     36.0,
+     138.7,
+     924.0,
+     475.6
+    ],
+    "px": [
+     2852,
+     1082
+    ]
+   }
+  ],
+  "drawings": [
+   {
+    "type": "f",
+    "rect": [
+     0.0,
+     -0.0,
+     960.0,
+     540.0
+    ],
+    "fill": "#FFFFFF",
+    "stroke": null,
+    "width": null
+   }
+  ]
+ },
+ {
+  "slide": 63,
+  "size": [
+   960.0,
+   540.0
+  ],
+  "text": [
+   {
+    "t": "HU-19 | Actualización de mascota como adoptada",
+    "font": "Arial-BoldMT",
+    "size": 30.0,
+    "color": "#102D47",
+    "bbox": [
+     43.2,
+     36.5,
+     750.4,
+     70.0
+    ]
+   },
+   {
+    "t": "KuyayPet  /  63",
+    "font": "ArialMT",
+    "size": 10.6,
+    "color": "#517084",
+    "bbox": [
+     845.6,
+     515.7,
+     916.7,
+     527.5
+    ]
+   },
+   {
+    "t": "Caso de Uso",
+    "font": "Arial-BoldMT",
+    "size": 16.6,
+    "color": "#247CAA",
+    "bbox": [
+     43.2,
+     83.5,
+     143.3,
+     101.9
+    ]
+   },
+   {
+    "t": "PDF · p. 113",
+    "font": "ArialMT",
+    "size": 12.7,
+    "color": "#517084",
+    "bbox": [
+     844.1,
+     83.9,
+     915.3,
+     98.1
+    ]
+   },
+   {
+    "t": "Responsable de mascota  ·  Actualizar la disponibilidad tras la adopción.",
+    "font": "ArialMT",
+    "size": 16.6,
+    "color": "#517084",
+    "bbox": [
+     43.2,
+     113.5,
+     571.2,
+     131.9
+    ]
+   }
+  ],
+  "images": [
+   {
+    "file": "assets/img_065_s63.png",
+    "bbox": [
+     101.4,
+     143.3,
+     858.6,
+     501.0
+    ],
+    "px": [
+     2692,
+     1272
+    ]
+   }
+  ],
+  "drawings": [
+   {
+    "type": "f",
+    "rect": [
+     0.0,
+     -0.0,
+     960.0,
+     540.0
+    ],
+    "fill": "#FFFFFF",
+    "stroke": null,
+    "width": null
+   }
+  ]
+ },
+ {
+  "slide": 64,
+  "size": [
+   960.0,
+   540.0
+  ],
+  "text": [
+   {
+    "t": "HU-19 | Actualización de mascota como adoptada",
+    "font": "Arial-BoldMT",
+    "size": 30.0,
+    "color": "#102D47",
+    "bbox": [
+     43.2,
+     36.5,
+     750.4,
+     70.0
+    ]
+   },
+   {
+    "t": "KuyayPet  /  64",
+    "font": "ArialMT",
+    "size": 10.6,
+    "color": "#517084",
+    "bbox": [
+     845.6,
+     515.7,
+     916.7,
+     527.5
+    ]
+   },
+   {
+    "t": "Actividades · Vista 1 de 2",
+    "font": "Arial-BoldMT",
+    "size": 16.6,
+    "color": "#247CAA",
+    "bbox": [
+     43.2,
+     83.5,
+     240.9,
+     101.9
+    ]
+   },
+   {
+    "t": "PDF · p. 114",
+    "font": "ArialMT",
+    "size": 12.7,
+    "color": "#517084",
+    "bbox": [
+     844.1,
+     83.9,
+     915.3,
+     98.1
+    ]
+   }
+  ],
+  "images": [
+   {
+    "file": "assets/img_066_s64.png",
+    "bbox": [
+     213.8,
+     113.3,
+     746.2,
+     501.0
+    ],
+    "px": [
+     1478,
+     1076
+    ]
+   }
+  ],
+  "drawings": [
+   {
+    "type": "f",
+    "rect": [
+     0.0,
+     -0.0,
+     960.0,
+     540.0
+    ],
+    "fill": "#FFFFFF",
+    "stroke": null,
+    "width": null
+   }
+  ]
+ },
+ {
+  "slide": 65,
+  "size": [
+   960.0,
+   540.0
+  ],
+  "text": [
+   {
+    "t": "HU-19 | Actualización de mascota como adoptada",
+    "font": "Arial-BoldMT",
+    "size": 30.0,
+    "color": "#102D47",
+    "bbox": [
+     43.2,
+     36.5,
+     750.4,
+     70.0
+    ]
+   },
+   {
+    "t": "KuyayPet  /  65",
+    "font": "ArialMT",
+    "size": 10.6,
+    "color": "#517084",
+    "bbox": [
+     845.6,
+     515.7,
+     916.7,
+     527.5
+    ]
+   },
+   {
+    "t": "Actividades · Vista 2 de 2",
+    "font": "Arial-BoldMT",
+    "size": 16.6,
+    "color": "#247CAA",
+    "bbox": [
+     43.2,
+     83.5,
+     240.9,
+     101.9
+    ]
+   },
+   {
+    "t": "PDF · p. 114",
+    "font": "ArialMT",
+    "size": 12.7,
+    "color": "#517084",
+    "bbox": [
+     844.1,
+     83.9,
+     915.3,
+     98.1
+    ]
+   }
+  ],
+  "images": [
+   {
+    "file": "assets/img_067_s65.png",
+    "bbox": [
+     165.2,
+     113.3,
+     794.8,
+     501.0
+    ],
+    "px": [
+     2372,
+     1461
+    ]
+   }
+  ],
+  "drawings": [
+   {
+    "type": "f",
+    "rect": [
+     0.0,
+     -0.0,
+     960.0,
+     540.0
+    ],
+    "fill": "#FFFFFF",
+    "stroke": null,
+    "width": null
+   }
+  ]
+ },
+ {
+  "slide": 66,
+  "size": [
+   960.0,
+   540.0
+  ],
+  "text": [
+   {
+    "t": "HU-19 | Actualización de mascota como adoptada",
+    "font": "Arial-BoldMT",
+    "size": 30.0,
+    "color": "#102D47",
+    "bbox": [
+     43.2,
+     36.5,
+     750.4,
+     70.0
+    ]
+   },
+   {
+    "t": "KuyayPet  /  66",
+    "font": "ArialMT",
+    "size": 10.6,
+    "color": "#517084",
+    "bbox": [
+     845.6,
+     515.7,
+     916.7,
+     527.5
+    ]
+   },
+   {
+    "t": "Colaboración / Comunicación · Vista 1 de 2",
+    "font": "Arial-BoldMT",
+    "size": 16.6,
+    "color": "#247CAA",
+    "bbox": [
+     43.2,
+     83.5,
+     381.6,
+     101.9
+    ]
+   },
+   {
+    "t": "PDF · p. 117",
+    "font": "ArialMT",
+    "size": 12.7,
+    "color": "#517084",
+    "bbox": [
+     844.1,
+     83.9,
+     915.3,
+     98.1
+    ]
+   }
+  ],
+  "images": [
+   {
+    "file": "assets/img_068_s66.png",
+    "bbox": [
+     36.0,
+     136.2,
+     924.0,
+     478.1
+    ],
+    "px": [
+     2466,
+     949
+    ]
+   }
+  ],
+  "drawings": [
+   {
+    "type": "f",
+    "rect": [
+     0.0,
+     -0.0,
+     960.0,
+     540.0
+    ],
+    "fill": "#FFFFFF",
+    "stroke": null,
+    "width": null
+   }
+  ]
+ },
+ {
+  "slide": 67,
+  "size": [
+   960.0,
+   540.0
+  ],
+  "text": [
+   {
+    "t": "HU-19 | Actualización de mascota como adoptada",
+    "font": "Arial-BoldMT",
+    "size": 30.0,
+    "color": "#102D47",
+    "bbox": [
+     43.2,
+     36.5,
+     750.4,
+     70.0
+    ]
+   },
+   {
+    "t": "KuyayPet  /  67",
+    "font": "ArialMT",
+    "size": 10.6,
+    "color": "#517084",
+    "bbox": [
+     845.6,
+     515.7,
+     916.7,
+     527.5
+    ]
+   },
+   {
+    "t": "Colaboración / Comunicación · Vista 2 de 2",
+    "font": "Arial-BoldMT",
+    "size": 16.6,
+    "color": "#247CAA",
+    "bbox": [
+     43.2,
+     83.5,
+     381.6,
+     101.9
+    ]
+   },
+   {
+    "t": "PDF · p. 117",
+    "font": "ArialMT",
+    "size": 12.7,
+    "color": "#517084",
+    "bbox": [
+     844.1,
+     83.9,
+     915.3,
+     98.1
+    ]
+   }
+  ],
+  "images": [
+   {
+    "file": "assets/img_069_s67.png",
+    "bbox": [
+     36.0,
+     136.2,
+     924.0,
+     478.1
+    ],
+    "px": [
+     2466,
+     949
+    ]
+   }
+  ],
+  "drawings": [
+   {
+    "type": "f",
+    "rect": [
+     0.0,
+     -0.0,
+     960.0,
+     540.0
+    ],
+    "fill": "#FFFFFF",
+    "stroke": null,
+    "width": null
+   }
+  ]
+ },
+ {
+  "slide": 68,
+  "size": [
+   960.0,
+   540.0
+  ],
+  "text": [
+   {
+    "t": "HU-20 | Visualización de compatibilidades",
+    "font": "Arial-BoldMT",
+    "size": 30.0,
+    "color": "#102D47",
+    "bbox": [
+     43.2,
+     36.5,
+     641.0,
+     70.0
+    ]
+   },
+   {
+    "t": "KuyayPet  /  68",
+    "font": "ArialMT",
+    "size": 10.6,
+    "color": "#517084",
+    "bbox": [
+     845.6,
+     515.7,
+     916.7,
+     527.5
+    ]
+   },
+   {
+    "t": "Actividades · Vista 1 de 2",
+    "font": "Arial-BoldMT",
+    "size": 16.6,
+    "color": "#247CAA",
+    "bbox": [
+     43.2,
+     83.5,
+     240.9,
+     101.9
+    ]
+   },
+   {
+    "t": "PDF · p. 120",
+    "font": "ArialMT",
+    "size": 12.7,
+    "color": "#517084",
+    "bbox": [
+     843.2,
+     83.9,
+     915.3,
+     98.1
+    ]
+   },
+   {
+    "t": "Adoptante  ·  Revisar las compatibilidades disponibles.",
+    "font": "ArialMT",
+    "size": 16.6,
+    "color": "#517084",
+    "bbox": [
+     43.2,
+     113.5,
+     442.2,
+     131.9
+    ]
+   }
+  ],
+  "images": [
+   {
+    "file": "assets/img_070_s68.png",
+    "bbox": [
+     141.7,
+     143.3,
+     818.3,
+     501.0
+    ],
+    "px": [
+     1879,
+     993
+    ]
+   }
+  ],
+  "drawings": [
+   {
+    "type": "f",
+    "rect": [
+     0.0,
+     -0.0,
+     960.0,
+     540.0
+    ],
+    "fill": "#FFFFFF",
+    "stroke": null,
+    "width": null
+   }
+  ]
+ },
+ {
+  "slide": 69,
+  "size": [
+   960.0,
+   540.0
+  ],
+  "text": [
+   {
+    "t": "HU-20 | Visualización de compatibilidades",
+    "font": "Arial-BoldMT",
+    "size": 30.0,
+    "color": "#102D47",
+    "bbox": [
+     43.2,
+     36.5,
+     641.0,
+     70.0
+    ]
+   },
+   {
+    "t": "KuyayPet  /  69",
+    "font": "ArialMT",
+    "size": 10.6,
+    "color": "#517084",
+    "bbox": [
+     845.6,
+     515.7,
+     916.7,
+     527.5
+    ]
+   },
+   {
+    "t": "Actividades · Vista 2 de 2",
+    "font": "Arial-BoldMT",
+    "size": 16.6,
+    "color": "#247CAA",
+    "bbox": [
+     43.2,
+     83.5,
+     240.9,
+     101.9
+    ]
+   },
+   {
+    "t": "PDF · p. 120",
+    "font": "ArialMT",
+    "size": 12.7,
+    "color": "#517084",
+    "bbox": [
+     843.2,
+     83.9,
+     915.3,
+     98.1
+    ]
+   }
+  ],
+  "images": [
+   {
+    "file": "assets/img_071_s69.png",
+    "bbox": [
+     69.1,
+     113.3,
+     890.9,
+     501.0
+    ],
+    "px": [
+     2282,
+     1076
+    ]
+   }
+  ],
+  "drawings": [
+   {
+    "type": "f",
+    "rect": [
+     0.0,
+     -0.0,
+     960.0,
+     540.0
+    ],
+    "fill": "#FFFFFF",
+    "stroke": null,
+    "width": null
+   }
+  ]
+ },
+ {
+  "slide": 70,
+  "size": [
+   960.0,
+   540.0
+  ],
+  "text": [
+   {
+    "t": "HU-20 | Visualización de compatibilidades",
+    "font": "Arial-BoldMT",
+    "size": 30.0,
+    "color": "#102D47",
+    "bbox": [
+     43.2,
+     36.5,
+     641.0,
+     70.0
+    ]
+   },
+   {
+    "t": "KuyayPet  /  70",
+    "font": "ArialMT",
+    "size": 10.6,
+    "color": "#517084",
+    "bbox": [
+     845.6,
+     515.7,
+     916.7,
+     527.5
+    ]
+   },
+   {
+    "t": "Componentes",
+    "font": "Arial-BoldMT",
+    "size": 16.6,
+    "color": "#247CAA",
+    "bbox": [
+     43.2,
+     83.5,
+     153.5,
+     101.9
+    ]
+   },
+   {
+    "t": "PDF · p. 122",
+    "font": "ArialMT",
+    "size": 12.7,
+    "color": "#517084",
+    "bbox": [
+     843.2,
+     83.9,
+     915.3,
+     98.1
+    ]
+   }
+  ],
+  "images": [
+   {
+    "file": "assets/img_072_s70.png",
+    "bbox": [
+     36.0,
+     183.7,
+     924.0,
+     430.6
+    ],
+    "px": [
+     2466,
+     685
+    ]
+   }
+  ],
+  "drawings": [
+   {
+    "type": "f",
+    "rect": [
+     0.0,
+     -0.0,
+     960.0,
+     540.0
+    ],
+    "fill": "#FFFFFF",
+    "stroke": null,
+    "width": null
+   }
+  ]
+ },
+ {
+  "slide": 71,
+  "size": [
+   960.0,
+   540.0
+  ],
+  "text": [
+   {
+    "t": "HU-21 | Cierre seguro de sesión",
+    "font": "Arial-BoldMT",
+    "size": 30.0,
+    "color": "#102D47",
+    "bbox": [
+     43.2,
+     36.5,
+     496.4,
+     70.0
+    ]
+   },
+   {
+    "t": "KuyayPet  /  71",
+    "font": "ArialMT",
+    "size": 10.6,
+    "color": "#517084",
+    "bbox": [
+     845.6,
+     515.7,
+     916.7,
+     527.5
+    ]
+   },
+   {
+    "t": "Actividades · Vista 1 de 2",
+    "font": "Arial-BoldMT",
+    "size": 16.6,
+    "color": "#247CAA",
+    "bbox": [
+     43.2,
+     83.5,
+     240.9,
+     101.9
+    ]
+   },
+   {
+    "t": "PDF · p. 126",
+    "font": "ArialMT",
+    "size": 12.7,
+    "color": "#517084",
+    "bbox": [
+     843.2,
+     83.9,
+     915.3,
+     98.1
+    ]
+   },
+   {
+    "t": "Usuario común  ·  Proteger el acceso a la cuenta al salir.",
+    "font": "ArialMT",
+    "size": 16.6,
+    "color": "#517084",
+    "bbox": [
+     43.2,
+     113.5,
+     456.2,
+     131.9
+    ]
+   }
+  ],
+  "images": [
+   {
+    "file": "assets/img_073_s71.png",
+    "bbox": [
+     141.7,
+     143.3,
+     818.3,
+     501.0
+    ],
+    "px": [
+     1879,
+     993
+    ]
+   }
+  ],
+  "drawings": [
+   {
+    "type": "f",
+    "rect": [
+     0.0,
+     -0.0,
+     960.0,
+     540.0
+    ],
+    "fill": "#FFFFFF",
+    "stroke": null,
+    "width": null
+   }
+  ]
+ },
+ {
+  "slide": 72,
+  "size": [
+   960.0,
+   540.0
+  ],
+  "text": [
+   {
+    "t": "HU-21 | Cierre seguro de sesión",
+    "font": "Arial-BoldMT",
+    "size": 30.0,
+    "color": "#102D47",
+    "bbox": [
+     43.2,
+     36.5,
+     496.4,
+     70.0
+    ]
+   },
+   {
+    "t": "KuyayPet  /  72",
+    "font": "ArialMT",
+    "size": 10.6,
+    "color": "#517084",
+    "bbox": [
+     845.6,
+     515.7,
+     916.7,
+     527.5
+    ]
+   },
+   {
+    "t": "Actividades · Vista 2 de 2",
+    "font": "Arial-BoldMT",
+    "size": 16.6,
+    "color": "#247CAA",
+    "bbox": [
+     43.2,
+     83.5,
+     240.9,
+     101.9
+    ]
+   },
+   {
+    "t": "PDF · p. 126",
+    "font": "ArialMT",
+    "size": 12.7,
+    "color": "#517084",
+    "bbox": [
+     843.2,
+     83.9,
+     915.3,
+     98.1
+    ]
+   }
+  ],
+  "images": [
+   {
+    "file": "assets/img_074_s72.png",
+    "bbox": [
+     69.1,
+     113.3,
+     890.9,
+     501.0
+    ],
+    "px": [
+     2282,
+     1076
+    ]
+   }
+  ],
+  "drawings": [
+   {
+    "type": "f",
+    "rect": [
+     0.0,
+     -0.0,
+     960.0,
+     540.0
+    ],
+    "fill": "#FFFFFF",
+    "stroke": null,
+    "width": null
+   }
+  ]
+ },
+ {
+  "slide": 73,
+  "size": [
+   960.0,
+   540.0
+  ],
+  "text": [
+   {
+    "t": "HU-21 | Cierre seguro de sesión",
+    "font": "Arial-BoldMT",
+    "size": 30.0,
+    "color": "#102D47",
+    "bbox": [
+     43.2,
+     36.5,
+     496.4,
+     70.0
+    ]
+   },
+   {
+    "t": "KuyayPet  /  73",
+    "font": "ArialMT",
+    "size": 10.6,
+    "color": "#517084",
+    "bbox": [
+     845.6,
+     515.7,
+     916.7,
+     527.5
+    ]
+   },
+   {
+    "t": "Componentes",
+    "font": "Arial-BoldMT",
+    "size": 16.6,
+    "color": "#247CAA",
+    "bbox": [
+     43.2,
+     83.5,
+     153.5,
+     101.9
+    ]
+   },
+   {
+    "t": "PDF · p. 128",
+    "font": "ArialMT",
+    "size": 12.7,
+    "color": "#517084",
+    "bbox": [
+     843.2,
+     83.9,
+     915.3,
+     98.1
+    ]
+   }
+  ],
+  "images": [
+   {
+    "file": "assets/img_075_s73.png",
+    "bbox": [
+     36.0,
+     138.7,
+     924.0,
+     475.6
+    ],
+    "px": [
+     2852,
+     1082
+    ]
+   }
+  ],
+  "drawings": [
+   {
+    "type": "f",
+    "rect": [
+     0.0,
+     -0.0,
+     960.0,
+     540.0
+    ],
+    "fill": "#FFFFFF",
+    "stroke": null,
+    "width": null
+   }
+  ]
+ },
+ {
+  "slide": 74,
+  "size": [
+   960.0,
+   540.0
+  ],
+  "text": [
+   {
+    "t": "HU-22 | Gestionar usuarios",
+    "font": "Arial-BoldMT",
+    "size": 30.0,
+    "color": "#102D47",
+    "bbox": [
+     43.2,
+     36.5,
+     428.3,
+     70.0
+    ]
+   },
+   {
+    "t": "KuyayPet  /  74",
+    "font": "ArialMT",
+    "size": 10.6,
+    "color": "#517084",
+    "bbox": [
+     845.6,
+     515.7,
+     916.7,
+     527.5
+    ]
+   },
+   {
+    "t": "Caso de Uso",
+    "font": "Arial-BoldMT",
+    "size": 16.6,
+    "color": "#247CAA",
+    "bbox": [
+     43.2,
+     83.5,
+     143.3,
+     101.9
+    ]
+   },
+   {
+    "t": "PDF · p. 131",
+    "font": "ArialMT",
+    "size": 12.7,
+    "color": "#517084",
+    "bbox": [
+     843.2,
+     83.9,
+     915.3,
+     98.1
+    ]
+   },
+   {
+    "t": "Administrador de la plataforma  ·  Mantener el control de las cuentas registradas.",
+    "font": "ArialMT",
+    "size": 16.6,
+    "color": "#517084",
+    "bbox": [
+     43.2,
+     113.5,
+     633.7,
+     131.9
+    ]
+   }
+  ],
+  "images": [
+   {
+    "file": "assets/img_076_s74.png",
+    "bbox": [
+     99.4,
+     143.3,
+     860.6,
+     501.0
+    ],
+    "px": [
+     2707,
+     1272
+    ]
+   }
+  ],
+  "drawings": [
+   {
+    "type": "f",
+    "rect": [
+     0.0,
+     -0.0,
+     960.0,
+     540.0
+    ],
+    "fill": "#FFFFFF",
+    "stroke": null,
+    "width": null
+   }
+  ]
+ },
+ {
+  "slide": 75,
+  "size": [
+   960.0,
+   540.0
+  ],
+  "text": [
+   {
+    "t": "HU-22 | Gestionar usuarios",
+    "font": "Arial-BoldMT",
+    "size": 30.0,
+    "color": "#102D47",
+    "bbox": [
+     43.2,
+     36.5,
+     428.3,
+     70.0
+    ]
+   },
+   {
+    "t": "KuyayPet  /  75",
+    "font": "ArialMT",
+    "size": 10.6,
+    "color": "#517084",
+    "bbox": [
+     845.6,
+     515.7,
+     916.7,
+     527.5
+    ]
+   },
+   {
+    "t": "Actividades · Vista 1 de 2",
+    "font": "Arial-BoldMT",
+    "size": 16.6,
+    "color": "#247CAA",
+    "bbox": [
+     43.2,
+     83.5,
+     240.9,
+     101.9
+    ]
+   },
+   {
+    "t": "PDF · p. 132",
+    "font": "ArialMT",
+    "size": 12.7,
+    "color": "#517084",
+    "bbox": [
+     843.2,
+     83.9,
+     915.3,
+     98.1
+    ]
+   }
+  ],
+  "images": [
+   {
+    "file": "assets/img_077_s75.png",
+    "bbox": [
+     113.4,
+     113.3,
+     846.6,
+     501.0
+    ],
+    "px": [
+     2036,
+     1076
+    ]
+   }
+  ],
+  "drawings": [
+   {
+    "type": "f",
+    "rect": [
+     0.0,
+     -0.0,
+     960.0,
+     540.0
+    ],
+    "fill": "#FFFFFF",
+    "stroke": null,
+    "width": null
+   }
+  ]
+ },
+ {
+  "slide": 76,
+  "size": [
+   960.0,
+   540.0
+  ],
+  "text": [
+   {
+    "t": "HU-22 | Gestionar usuarios",
+    "font": "Arial-BoldMT",
+    "size": 30.0,
+    "color": "#102D47",
+    "bbox": [
+     43.2,
+     36.5,
+     428.3,
+     70.0
+    ]
+   },
+   {
+    "t": "KuyayPet  /  76",
+    "font": "ArialMT",
+    "size": 10.6,
+    "color": "#517084",
+    "bbox": [
+     845.6,
+     515.7,
+     916.7,
+     527.5
+    ]
+   },
+   {
+    "t": "Actividades · Vista 2 de 2",
+    "font": "Arial-BoldMT",
+    "size": 16.6,
+    "color": "#247CAA",
+    "bbox": [
+     43.2,
+     83.5,
+     240.9,
+     101.9
+    ]
+   },
+   {
+    "t": "PDF · p. 132",
+    "font": "ArialMT",
+    "size": 12.7,
+    "color": "#517084",
+    "bbox": [
+     843.2,
+     83.9,
+     915.3,
+     98.1
+    ]
+   }
+  ],
+  "images": [
+   {
+    "file": "assets/img_078_s76.png",
+    "bbox": [
+     69.1,
+     113.3,
+     890.9,
+     501.0
+    ],
+    "px": [
+     2282,
+     1076
+    ]
+   }
+  ],
+  "drawings": [
+   {
+    "type": "f",
+    "rect": [
+     0.0,
+     -0.0,
+     960.0,
+     540.0
+    ],
+    "fill": "#FFFFFF",
+    "stroke": null,
+    "width": null
+   }
+  ]
+ },
+ {
+  "slide": 77,
+  "size": [
+   960.0,
+   540.0
+  ],
+  "text": [
+   {
+    "t": "HU-22 | Gestionar usuarios",
+    "font": "Arial-BoldMT",
+    "size": 30.0,
+    "color": "#102D47",
+    "bbox": [
+     43.2,
+     36.5,
+     428.3,
+     70.0
+    ]
+   },
+   {
+    "t": "KuyayPet  /  77",
+    "font": "ArialMT",
+    "size": 10.6,
+    "color": "#517084",
+    "bbox": [
+     845.6,
+     515.7,
+     916.7,
+     527.5
+    ]
+   },
+   {
+    "t": "Componentes",
+    "font": "Arial-BoldMT",
+    "size": 16.6,
+    "color": "#247CAA",
+    "bbox": [
+     43.2,
+     83.5,
+     153.5,
+     101.9
+    ]
+   },
+   {
+    "t": "PDF · p. 134",
+    "font": "ArialMT",
+    "size": 12.7,
+    "color": "#517084",
+    "bbox": [
+     843.2,
+     83.9,
+     915.3,
+     98.1
+    ]
+   }
+  ],
+  "images": [
+   {
+    "file": "assets/img_079_s77.png",
+    "bbox": [
+     36.0,
+     138.7,
+     924.0,
+     475.6
+    ],
+    "px": [
+     2852,
+     1082
+    ]
+   }
+  ],
+  "drawings": [
+   {
+    "type": "f",
+    "rect": [
+     0.0,
+     -0.0,
+     960.0,
+     540.0
+    ],
+    "fill": "#FFFFFF",
+    "stroke": null,
+    "width": null
+   }
+  ]
+ },
+ {
+  "slide": 78,
+  "size": [
+   960.0,
+   540.0
+  ],
+  "text": [
+   {
+    "t": "HU-23 | Revisar publicaciones de mascotas",
+    "font": "Arial-BoldMT",
+    "size": 30.0,
+    "color": "#102D47",
+    "bbox": [
+     43.2,
+     36.5,
+     661.6,
+     70.0
+    ]
+   },
+   {
+    "t": "KuyayPet  /  78",
+    "font": "ArialMT",
+    "size": 10.6,
+    "color": "#517084",
+    "bbox": [
+     845.6,
+     515.7,
+     916.7,
+     527.5
+    ]
+   },
+   {
+    "t": "Colaboración / Comunicación · Vista 1 de 2",
+    "font": "Arial-BoldMT",
+    "size": 16.6,
+    "color": "#247CAA",
+    "bbox": [
+     43.2,
+     83.5,
+     381.6,
+     101.9
+    ]
+   },
+   {
+    "t": "PDF · p. 141",
+    "font": "ArialMT",
+    "size": 12.7,
+    "color": "#517084",
+    "bbox": [
+     843.2,
+     83.9,
+     915.3,
+     98.1
+    ]
+   },
+   {
+    "t": "Administrador de la plataforma  ·  Mantener actualizada la información publicada.",
+    "font": "ArialMT",
+    "size": 16.6,
+    "color": "#517084",
+    "bbox": [
+     43.2,
+     113.5,
+     635.4,
+     131.9
+    ]
+   }
+  ],
+  "images": [
+   {
+    "file": "assets/img_080_s78.png",
+    "bbox": [
+     36.0,
+     245.4,
+     924.0,
+     398.9
+    ],
+    "px": [
+     2466,
+     426
+    ]
+   }
+  ],
+  "drawings": [
+   {
+    "type": "f",
+    "rect": [
+     0.0,
+     -0.0,
+     960.0,
+     540.0
+    ],
+    "fill": "#FFFFFF",
+    "stroke": null,
+    "width": null
+   }
+  ]
+ },
+ {
+  "slide": 79,
+  "size": [
+   960.0,
+   540.0
+  ],
+  "text": [
+   {
+    "t": "HU-23 | Revisar publicaciones de mascotas",
+    "font": "Arial-BoldMT",
+    "size": 30.0,
+    "color": "#102D47",
+    "bbox": [
+     43.2,
+     36.5,
+     661.6,
+     70.0
+    ]
+   },
+   {
+    "t": "KuyayPet  /  79",
+    "font": "ArialMT",
+    "size": 10.6,
+    "color": "#517084",
+    "bbox": [
+     845.6,
+     515.7,
+     916.7,
+     527.5
+    ]
+   },
+   {
+    "t": "Colaboración / Comunicación · Vista 2 de 2",
+    "font": "Arial-BoldMT",
+    "size": 16.6,
+    "color": "#247CAA",
+    "bbox": [
+     43.2,
+     83.5,
+     381.6,
+     101.9
+    ]
+   },
+   {
+    "t": "PDF · p. 141",
+    "font": "ArialMT",
+    "size": 12.7,
+    "color": "#517084",
+    "bbox": [
+     843.2,
+     83.9,
+     915.3,
+     98.1
+    ]
+   }
+  ],
+  "images": [
+   {
+    "file": "assets/img_081_s79.png",
+    "bbox": [
+     36.0,
+     160.3,
+     924.0,
+     454.0
+    ],
+    "px": [
+     2466,
+     815
+    ]
+   }
+  ],
+  "drawings": [
+   {
+    "type": "f",
+    "rect": [
+     0.0,
+     -0.0,
+     960.0,
+     540.0
+    ],
+    "fill": "#FFFFFF",
+    "stroke": null,
+    "width": null
+   }
+  ]
+ },
+ {
+  "slide": 80,
+  "size": [
+   960.0,
+   540.0
+  ],
+  "text": [
+   {
+    "t": "HU-24 | Aprobar o rechazar publicaciones de mascotas",
+    "font": "Arial-BoldMT",
+    "size": 30.0,
+    "color": "#102D47",
+    "bbox": [
+     43.2,
+     36.5,
+     827.2,
+     70.0
+    ]
+   },
+   {
+    "t": "KuyayPet  /  80",
+    "font": "ArialMT",
+    "size": 10.6,
+    "color": "#517084",
+    "bbox": [
+     845.6,
+     515.7,
+     916.7,
+     527.5
+    ]
+   },
+   {
+    "t": "Actividades · Vista 1 de 2",
+    "font": "Arial-BoldMT",
+    "size": 16.6,
+    "color": "#247CAA",
+    "bbox": [
+     43.2,
+     83.5,
+     240.9,
+     101.9
+    ]
+   },
+   {
+    "t": "PDF · p. 144",
+    "font": "ArialMT",
+    "size": 12.7,
+    "color": "#517084",
+    "bbox": [
+     843.2,
+     83.9,
+     915.3,
+     98.1
+    ]
+   },
+   {
+    "t": "Administrador de la plataforma  ·  Controlar las publicaciones disponibles para adopción.",
+    "font": "ArialMT",
+    "size": 16.6,
+    "color": "#517084",
+    "bbox": [
+     43.2,
+     113.5,
+     689.0,
+     131.9
+    ]
+   }
+  ],
+  "images": [
+   {
+    "file": "assets/img_082_s80.png",
+    "bbox": [
+     228.6,
+     143.3,
+     731.4,
+     501.0
+    ],
+    "px": [
+     1396,
+     993
+    ]
+   }
+  ],
+  "drawings": [
+   {
+    "type": "f",
+    "rect": [
+     0.0,
+     -0.0,
+     960.0,
+     540.0
+    ],
+    "fill": "#FFFFFF",
+    "stroke": null,
+    "width": null
+   }
+  ]
+ },
+ {
+  "slide": 81,
+  "size": [
+   960.0,
+   540.0
+  ],
+  "text": [
+   {
+    "t": "HU-24 | Aprobar o rechazar publicaciones de mascotas",
+    "font": "Arial-BoldMT",
+    "size": 30.0,
+    "color": "#102D47",
+    "bbox": [
+     43.2,
+     36.5,
+     827.2,
+     70.0
+    ]
+   },
+   {
+    "t": "KuyayPet  /  81",
+    "font": "ArialMT",
+    "size": 10.6,
+    "color": "#517084",
+    "bbox": [
+     845.6,
+     515.7,
+     916.7,
+     527.5
+    ]
+   },
+   {
+    "t": "Actividades · Vista 2 de 2",
+    "font": "Arial-BoldMT",
+    "size": 16.6,
+    "color": "#247CAA",
+    "bbox": [
+     43.2,
+     83.5,
+     240.9,
+     101.9
+    ]
+   },
+   {
+    "t": "PDF · p. 144",
+    "font": "ArialMT",
+    "size": 12.7,
+    "color": "#517084",
+    "bbox": [
+     843.2,
+     83.9,
+     915.3,
+     98.1
+    ]
+   }
+  ],
+  "images": [
+   {
+    "file": "assets/img_083_s81.png",
+    "bbox": [
+     165.2,
+     113.3,
+     794.8,
+     501.0
+    ],
+    "px": [
+     2372,
+     1461
+    ]
+   }
+  ],
+  "drawings": [
+   {
+    "type": "f",
+    "rect": [
+     0.0,
+     -0.0,
+     960.0,
+     540.0
+    ],
+    "fill": "#FFFFFF",
+    "stroke": null,
+    "width": null
+   }
+  ]
+ },
+ {
+  "slide": 82,
+  "size": [
+   960.0,
+   540.0
+  ],
+  "text": [
+   {
+    "t": "HU-24 | Aprobar o rechazar publicaciones de mascotas",
+    "font": "Arial-BoldMT",
+    "size": 30.0,
+    "color": "#102D47",
+    "bbox": [
+     43.2,
+     36.5,
+     827.2,
+     70.0
+    ]
+   },
+   {
+    "t": "KuyayPet  /  82",
+    "font": "ArialMT",
+    "size": 10.6,
+    "color": "#517084",
+    "bbox": [
+     845.6,
+     515.7,
+     916.7,
+     527.5
+    ]
+   },
+   {
+    "t": "Componentes",
+    "font": "Arial-BoldMT",
+    "size": 16.6,
+    "color": "#247CAA",
+    "bbox": [
+     43.2,
+     83.5,
+     153.5,
+     101.9
+    ]
+   },
+   {
+    "t": "PDF · p. 146",
+    "font": "ArialMT",
+    "size": 12.7,
+    "color": "#517084",
+    "bbox": [
+     843.2,
+     83.9,
+     915.3,
+     98.1
+    ]
+   }
+  ],
+  "images": [
+   {
+    "file": "assets/img_084_s82.png",
+    "bbox": [
+     36.0,
+     138.7,
+     924.0,
+     475.6
+    ],
+    "px": [
+     2852,
+     1082
+    ]
+   }
+  ],
+  "drawings": [
+   {
+    "type": "f",
+    "rect": [
+     0.0,
+     -0.0,
+     960.0,
+     540.0
+    ],
+    "fill": "#FFFFFF",
+    "stroke": null,
+    "width": null
+   }
+  ]
+ },
+ {
+  "slide": 83,
+  "size": [
+   960.0,
+   540.0
+  ],
+  "text": [
+   {
+    "t": "HU-25 | Desactivar cuentas de usuarios",
+    "font": "Arial-BoldMT",
+    "size": 30.0,
+    "color": "#102D47",
+    "bbox": [
+     43.2,
+     36.5,
+     604.6,
+     70.0
+    ]
+   },
+   {
+    "t": "KuyayPet  /  83",
+    "font": "ArialMT",
+    "size": 10.6,
+    "color": "#517084",
+    "bbox": [
+     845.6,
+     515.7,
+     916.7,
+     527.5
+    ]
+   },
+   {
+    "t": "Caso de Uso",
+    "font": "Arial-BoldMT",
+    "size": 16.6,
+    "color": "#247CAA",
+    "bbox": [
+     43.2,
+     83.5,
+     143.3,
+     101.9
+    ]
+   },
+   {
+    "t": "PDF · p. 149",
+    "font": "ArialMT",
+    "size": 12.7,
+    "color": "#517084",
+    "bbox": [
+     843.2,
+     83.9,
+     915.3,
+     98.1
+    ]
+   },
+   {
+    "t": "Administrador de la plataforma  ·  Impedir el acceso de cuentas desactivadas.",
+    "font": "ArialMT",
+    "size": 16.6,
+    "color": "#517084",
+    "bbox": [
+     43.2,
+     113.5,
+     611.0,
+     131.9
+    ]
+   }
+  ],
+  "images": [
+   {
+    "file": "assets/img_085_s83.png",
+    "bbox": [
+     99.4,
+     143.3,
+     860.6,
+     501.0
+    ],
+    "px": [
+     2707,
+     1272
+    ]
+   }
+  ],
+  "drawings": [
+   {
+    "type": "f",
+    "rect": [
+     0.0,
+     -0.0,
+     960.0,
+     540.0
+    ],
+    "fill": "#FFFFFF",
+    "stroke": null,
+    "width": null
+   }
+  ]
+ },
+ {
+  "slide": 84,
+  "size": [
+   960.0,
+   540.0
+  ],
+  "text": [
+   {
+    "t": "HU-25 | Desactivar cuentas de usuarios",
+    "font": "Arial-BoldMT",
+    "size": 30.0,
+    "color": "#102D47",
+    "bbox": [
+     43.2,
+     36.5,
+     604.6,
+     70.0
+    ]
+   },
+   {
+    "t": "KuyayPet  /  84",
+    "font": "ArialMT",
+    "size": 10.6,
+    "color": "#517084",
+    "bbox": [
+     845.6,
+     515.7,
+     916.7,
+     527.5
+    ]
+   },
+   {
+    "t": "Actividades · Vista 1 de 2",
+    "font": "Arial-BoldMT",
+    "size": 16.6,
+    "color": "#247CAA",
+    "bbox": [
+     43.2,
+     83.5,
+     240.9,
+     101.9
+    ]
+   },
+   {
+    "t": "PDF · p. 150",
+    "font": "ArialMT",
+    "size": 12.7,
+    "color": "#517084",
+    "bbox": [
+     843.2,
+     83.9,
+     915.3,
+     98.1
+    ]
+   }
+  ],
+  "images": [
+   {
+    "file": "assets/img_086_s84.png",
+    "bbox": [
+     113.4,
+     113.3,
+     846.6,
+     501.0
+    ],
+    "px": [
+     2036,
+     1076
+    ]
+   }
+  ],
+  "drawings": [
+   {
+    "type": "f",
+    "rect": [
+     0.0,
+     -0.0,
+     960.0,
+     540.0
+    ],
+    "fill": "#FFFFFF",
+    "stroke": null,
+    "width": null
+   }
+  ]
+ },
+ {
+  "slide": 85,
+  "size": [
+   960.0,
+   540.0
+  ],
+  "text": [
+   {
+    "t": "HU-25 | Desactivar cuentas de usuarios",
+    "font": "Arial-BoldMT",
+    "size": 30.0,
+    "color": "#102D47",
+    "bbox": [
+     43.2,
+     36.5,
+     604.6,
+     70.0
+    ]
+   },
+   {
+    "t": "KuyayPet  /  85",
+    "font": "ArialMT",
+    "size": 10.6,
+    "color": "#517084",
+    "bbox": [
+     845.6,
+     515.7,
+     916.7,
+     527.5
+    ]
+   },
+   {
+    "t": "Actividades · Vista 2 de 2",
+    "font": "Arial-BoldMT",
+    "size": 16.6,
+    "color": "#247CAA",
+    "bbox": [
+     43.2,
+     83.5,
+     240.9,
+     101.9
+    ]
+   },
+   {
+    "t": "PDF · p. 150",
+    "font": "ArialMT",
+    "size": 12.7,
+    "color": "#517084",
+    "bbox": [
+     843.2,
+     83.9,
+     915.3,
+     98.1
+    ]
+   }
+  ],
+  "images": [
+   {
+    "file": "assets/img_087_s85.png",
+    "bbox": [
+     69.1,
+     113.3,
+     890.9,
+     501.0
+    ],
+    "px": [
+     2282,
+     1076
+    ]
+   }
+  ],
+  "drawings": [
+   {
+    "type": "f",
+    "rect": [
+     0.0,
+     -0.0,
+     960.0,
+     540.0
+    ],
+    "fill": "#FFFFFF",
+    "stroke": null,
+    "width": null
+   }
+  ]
+ },
+ {
+  "slide": 86,
+  "size": [
+   960.0,
+   540.0
+  ],
+  "text": [
+   {
+    "t": "HU-26 | Revisar y gestionar información inapropiada",
+    "font": "Arial-BoldMT",
+    "size": 30.0,
+    "color": "#102D47",
+    "bbox": [
+     43.2,
+     36.5,
+     789.8,
+     70.0
+    ]
+   },
+   {
+    "t": "KuyayPet  /  86",
+    "font": "ArialMT",
+    "size": 10.6,
+    "color": "#517084",
+    "bbox": [
+     845.6,
+     515.7,
+     916.7,
+     527.5
+    ]
+   },
+   {
+    "t": "Caso de Uso",
+    "font": "Arial-BoldMT",
+    "size": 16.6,
+    "color": "#247CAA",
+    "bbox": [
+     43.2,
+     83.5,
+     143.3,
+     101.9
+    ]
+   },
+   {
+    "t": "PDF · p. 155",
+    "font": "ArialMT",
+    "size": 12.7,
+    "color": "#517084",
+    "bbox": [
+     843.2,
+     83.9,
+     915.3,
+     98.1
+    ]
+   },
+   {
+    "t": "Administrador de la plataforma  ·  Revisar información inapropiada, con gestión sin detallar.",
+    "font": "ArialMT",
+    "size": 16.6,
+    "color": "#517084",
+    "bbox": [
+     43.2,
+     113.5,
+     708.5,
+     131.9
+    ]
+   }
+  ],
+  "images": [
+   {
+    "file": "assets/img_088_s86.png",
+    "bbox": [
+     189.4,
+     143.3,
+     770.6,
+     501.0
+    ],
+    "px": [
+     2067,
+     1272
+    ]
+   }
+  ],
+  "drawings": [
+   {
+    "type": "f",
+    "rect": [
+     0.0,
+     -0.0,
+     960.0,
+     540.0
+    ],
+    "fill": "#FFFFFF",
+    "stroke": null,
+    "width": null
+   }
+  ]
+ },
+ {
+  "slide": 87,
+  "size": [
+   960.0,
+   540.0
+  ],
+  "text": [
+   {
+    "t": "Flujo general de KuyayPet",
+    "font": "Arial-BoldMT",
+    "size": 30.0,
+    "color": "#102D47",
+    "bbox": [
+     43.2,
+     36.5,
+     418.6,
+     70.0
+    ]
+   },
+   {
+    "t": "KuyayPet  /  87",
+    "font": "ArialMT",
+    "size": 10.6,
+    "color": "#517084",
+    "bbox": [
+     845.6,
+     515.7,
+     916.7,
+     527.5
+    ]
+   },
+   {
+    "t": "Publicar mascota",
+    "font": "Arial-BoldMT",
+    "size": 22.6,
+    "color": "#102D47",
+    "bbox": [
+     56.0,
+     191.2,
+     242.6,
+     216.4
+    ]
+   },
+   {
+    "t": "HU-11, 16",
+    "font": "ArialMT",
+    "size": 16.6,
+    "color": "#517084",
+    "bbox": [
+     56.0,
+     231.6,
+     130.0,
+     250.1
+    ]
+   },
+   {
+    "t": "→",
+    "font": "ArialMT",
+    "size": 30.0,
+    "color": "#247CAA",
+    "bbox": [
+     310.2,
+     180.6,
+     340.2,
+     214.0
+    ]
+   },
+   {
+    "t": "Explorar opciones",
+    "font": "Arial-BoldMT",
+    "size": 22.6,
+    "color": "#102D47",
+    "bbox": [
+     365.0,
+     191.2,
+     561.6,
+     216.4
+    ]
+   },
+   {
+    "t": "HU-02 a 05",
+    "font": "ArialMT",
+    "size": 16.6,
+    "color": "#517084",
+    "bbox": [
+     365.0,
+     231.6,
+     449.3,
+     250.1
+    ]
+   },
+   {
+    "t": "→",
+    "font": "ArialMT",
+    "size": 30.0,
+    "color": "#247CAA",
+    "bbox": [
+     619.3,
+     180.6,
+     649.3,
+     214.0
+    ]
+   },
+   {
+    "t": "Expresar interés",
+    "font": "Arial-BoldMT",
+    "size": 22.6,
+    "color": "#102D47",
+    "bbox": [
+     674.0,
+     191.2,
+     850.6,
+     216.4
+    ]
+   },
+   {
+    "t": "HU-06, 07, 13",
+    "font": "ArialMT",
+    "size": 16.6,
+    "color": "#517084",
+    "bbox": [
+     674.0,
+     231.6,
+     776.7,
+     250.1
+    ]
+   },
+   {
+    "t": "↓",
+    "font": "ArialMT",
+    "size": 28.6,
+    "color": "#247CAA",
+    "bbox": [
+     767.8,
+     255.6,
+     782.1,
+     287.4
+    ]
+   },
+   {
+    "t": "Conversar",
+    "font": "Arial-BoldMT",
+    "size": 22.6,
+    "color": "#102D47",
+    "bbox": [
+     674.0,
+     357.7,
+     785.7,
+     382.9
+    ]
+   },
+   {
+    "t": "HU-08",
+    "font": "ArialMT",
+    "size": 16.6,
+    "color": "#517084",
+    "bbox": [
+     674.0,
+     398.2,
+     722.0,
+     416.6
+    ]
+   },
+   {
+    "t": "←",
+    "font": "ArialMT",
+    "size": 30.0,
+    "color": "#247CAA",
+    "bbox": [
+     620.0,
+     347.1,
+     650.0,
+     380.6
+    ]
+   },
+   {
+    "t": "Coordinar adopción",
+    "font": "Arial-BoldMT",
+    "size": 22.6,
+    "color": "#102D47",
+    "bbox": [
+     365.0,
+     357.7,
+     579.2,
+     382.9
+    ]
+   },
+   {
+    "t": "HU-10",
+    "font": "ArialMT",
+    "size": 16.6,
+    "color": "#517084",
+    "bbox": [
+     365.0,
+     398.2,
+     413.0,
+     416.6
+    ]
+   },
+   {
+    "t": "←",
+    "font": "ArialMT",
+    "size": 30.0,
+    "color": "#247CAA",
+    "bbox": [
+     311.0,
+     347.1,
+     341.0,
+     380.6
+    ]
+   },
+   {
+    "t": "Marcar adoptada",
+    "font": "Arial-BoldMT",
+    "size": 22.6,
+    "color": "#102D47",
+    "bbox": [
+     56.0,
+     357.7,
+     236.4,
+     382.9
+    ]
+   },
+   {
+    "t": "HU-19",
+    "font": "ArialMT",
+    "size": 16.6,
+    "color": "#517084",
+    "bbox": [
+     56.0,
+     398.2,
+     103.9,
+     416.6
+    ]
+   },
+   {
+    "t": "Administración: usuarios, publicaciones e información inapropiada · HU-22 a 26",
+    "font": "ArialMT",
+    "size": 16.6,
+    "color": "#247CAA",
+    "bbox": [
+     56.0,
+     469.8,
+     636.8,
+     488.3
+    ]
+   },
+   {
+    "t": "Recorrido de exposición; las HU no fijan un orden obligatorio.",
+    "font": "ArialMT",
+    "size": 12.7,
+    "color": "#517084",
+    "bbox": [
+     56.0,
+     503.3,
+     402.9,
+     517.5
+    ]
+   }
+  ],
+  "images": [
+   {
+    "file": "assets/img_003_s02.png",
+    "bbox": [
+     48.7,
+     131.3,
+     92.3,
+     174.7
+    ],
+    "px": [
+     192,
+     192
+    ]
+   },
+   {
+    "file": "assets/img_089_s87.png",
+    "bbox": [
+     357.7,
+     131.3,
+     401.3,
+     174.7
+    ],
+    "px": [
+     120,
+     120
+    ]
+   },
+   {
+    "file": "assets/img_090_s87.png",
+    "bbox": [
+     666.7,
+     131.3,
+     710.3,
+     174.7
+    ],
+    "px": [
+     120,
+     120
+    ]
+   },
+   {
+    "file": "assets/img_005_s02.png",
+    "bbox": [
+     666.7,
+     297.7,
+     710.3,
+     341.3
+    ],
+    "px": [
+     192,
+     192
+    ]
+   },
+   {
+    "file": "assets/img_091_s87.png",
+    "bbox": [
+     357.7,
+     297.7,
+     401.3,
+     341.3
+    ],
+    "px": [
+     120,
+     120
+    ]
+   },
+   {
+    "file": "assets/img_092_s87.png",
+    "bbox": [
+     48.7,
+     297.7,
+     92.3,
+     341.3
+    ],
+    "px": [
+     120,
+     120
+    ]
+   }
+  ],
+  "drawings": [
+   {
+    "type": "f",
+    "rect": [
+     0.0,
+     -0.0,
+     960.0,
+     540.0
+    ],
+    "fill": "#FFFFFF",
+    "stroke": null,
+    "width": null
+   }
+  ]
+ },
+ {
+  "slide": 88,
+  "size": [
+   960.0,
+   540.0
+  ],
+  "text": [
+   {
+    "t": "Relación entre modelos UML",
+    "font": "Arial-BoldMT",
+    "size": 30.0,
+    "color": "#102D47",
+    "bbox": [
+     43.2,
+     36.5,
+     454.9,
+     70.0
+    ]
+   },
+   {
+    "t": "KuyayPet  /  88",
+    "font": "ArialMT",
+    "size": 10.6,
+    "color": "#517084",
+    "bbox": [
+     845.6,
+     515.7,
+     916.7,
+     527.5
+    ]
+   },
+   {
+    "t": "Historia de Usuario",
+    "font": "Arial-BoldMT",
+    "size": 31.6,
+    "color": "#247CAA",
+    "bbox": [
+     334.8,
+     233.3,
+     623.8,
+     268.5
+    ]
+   },
+   {
+    "t": "Caso de Uso",
+    "font": "Arial-BoldMT",
+    "size": 23.3,
+    "color": "#102D47",
+    "bbox": [
+     92.3,
+     124.8,
+     233.0,
+     150.8
+    ]
+   },
+   {
+    "t": "Actor y objetivo",
+    "font": "ArialMT",
+    "size": 17.3,
+    "color": "#517084",
+    "bbox": [
+     103.8,
+     170.1,
+     221.7,
+     189.4
+    ]
+   },
+   {
+    "t": "Actividades",
+    "font": "Arial-BoldMT",
+    "size": 23.3,
+    "color": "#102D47",
+    "bbox": [
+     97.4,
+     345.4,
+     228.2,
+     371.3
+    ]
+   },
+   {
+    "t": "Escenarios y decisiones",
+    "font": "ArialMT",
+    "size": 17.3,
+    "color": "#517084",
+    "bbox": [
+     70.2,
+     390.7,
+     255.4,
+     409.9
+    ]
+   },
+   {
+    "t": "Secuencia",
+    "font": "Arial-BoldMT",
+    "size": 23.3,
+    "color": "#102D47",
+    "bbox": [
+     740.5,
+     124.8,
+     855.7,
+     150.8
+    ]
+   },
+   {
+    "t": "Orden de mensajes",
+    "font": "ArialMT",
+    "size": 17.3,
+    "color": "#517084",
+    "bbox": [
+     722.7,
+     170.1,
+     873.7,
+     189.4
+    ]
+   },
+   {
+    "t": "Colaboración",
+    "font": "Arial-BoldMT",
+    "size": 23.3,
+    "color": "#102D47",
+    "bbox": [
+     723.5,
+     345.4,
+     872.4,
+     371.3
+    ]
+   },
+   {
+    "t": "Vínculos y mensajes",
+    "font": "ArialMT",
+    "size": 17.3,
+    "color": "#517084",
+    "bbox": [
+     718.9,
+     390.7,
+     877.2,
+     409.9
+    ]
+   },
+   {
+    "t": "Componentes",
+    "font": "Arial-BoldMT",
+    "size": 23.3,
+    "color": "#102D47",
+    "bbox": [
+     394.1,
+     405.4,
+     549.4,
+     431.3
+    ]
+   },
+   {
+    "t": "Dependencias técnicas",
+    "font": "ArialMT",
+    "size": 17.3,
+    "color": "#517084",
+    "bbox": [
+     382.4,
+     450.7,
+     561.1,
+     469.9
+    ]
+   },
+   {
+    "t": "Secuencia y Colaboración conservan los mismos mensajes y su numeración.",
+    "font": "ArialMT",
+    "size": 17.3,
+    "color": "#517084",
+    "bbox": [
+     191.8,
+     488.1,
+     783.0,
+     507.4
+    ]
+   }
+  ],
+  "images": [],
+  "drawings": [
+   {
+    "type": "f",
+    "rect": [
+     0.0,
+     -0.0,
+     960.0,
+     540.0
+    ],
+    "fill": "#FFFFFF",
+    "stroke": null,
+    "width": null
+   },
+   {
+    "type": "s",
+    "rect": [
+     266.3,
+     193.6,
+     318.8,
+     193.6
+    ],
+    "fill": null,
+    "stroke": "#A9DDF0",
+    "width": 1.559999942779541
+   },
+   {
+    "type": "s",
+    "rect": [
+     318.8,
+     193.6,
+     318.8,
+     228.8
+    ],
+    "fill": null,
+    "stroke": "#A9DDF0",
+    "width": 1.559999942779541
+   },
+   {
+    "type": "s",
+    "rect": [
+     266.3,
+     329.3,
+     318.8,
+     329.3
+    ],
+    "fill": null,
+    "stroke": "#A9DDF0",
+    "width": 1.559999942779541
+   },
+   {
+    "type": "s",
+    "rect": [
+     318.8,
+     283.6,
+     318.8,
+     329.3
+    ],
+    "fill": null,
+    "stroke": "#A9DDF0",
+    "width": 1.559999942779541
+   },
+   {
+    "type": "s",
+    "rect": [
+     641.3,
+     193.6,
+     682.6,
+     193.6
+    ],
+    "fill": null,
+    "stroke": "#A9DDF0",
+    "width": 1.559999942779541
+   },
+   {
+    "type": "s",
+    "rect": [
+     641.3,
+     193.6,
+     641.3,
+     228.8
+    ],
+    "fill": null,
+    "stroke": "#A9DDF0",
+    "width": 1.559999942779541
+   },
+   {
+    "type": "s",
+    "rect": [
+     641.3,
+     329.3,
+     682.6,
+     329.3
+    ],
+    "fill": null,
+    "stroke": "#A9DDF0",
+    "width": 1.559999942779541
+   },
+   {
+    "type": "s",
+    "rect": [
+     641.3,
+     283.6,
+     641.3,
+     329.3
+    ],
+    "fill": null,
+    "stroke": "#A9DDF0",
+    "width": 1.559999942779541
+   },
+   {
+    "type": "s",
+    "rect": [
+     480.1,
+     290.3,
+     480.1,
+     385.6
+    ],
+    "fill": null,
+    "stroke": "#A9DDF0",
+    "width": 1.559999942779541
+   }
+  ]
+ },
+ {
+  "slide": 89,
+  "size": [
+   960.0,
+   540.0
+  ],
+  "text": [
+   {
+    "t": "Conclusiones",
+    "font": "Arial-BoldMT",
+    "size": 30.0,
+    "color": "#FFFFFF",
+    "bbox": [
+     43.2,
+     36.5,
+     240.0,
+     70.0
+    ]
+   },
+   {
+    "t": "KuyayPet  /  89",
+    "font": "ArialMT",
+    "size": 10.6,
+    "color": "#A9DDF0",
+    "bbox": [
+     845.6,
+     515.7,
+     916.7,
+     527.5
+    ]
+   },
+   {
+    "t": "01",
+    "font": "Arial-BoldMT",
+    "size": 46.6,
+    "color": "#E5A16A",
+    "bbox": [
+     59.7,
+     152.2,
+     111.5,
+     204.2
+    ]
+   },
+   {
+    "t": "Las 26 HU cubren adopción, cuentas y administración.",
+    "font": "ArialMT",
+    "size": 27.0,
+    "color": "#FFFFFF",
+    "bbox": [
+     178.2,
+     170.9,
+     832.3,
+     201.1
+    ]
+   },
+   {
+    "t": "02",
+    "font": "Arial-BoldMT",
+    "size": 46.6,
+    "color": "#E5A16A",
+    "bbox": [
+     59.7,
+     263.2,
+     111.5,
+     315.2
+    ]
+   },
+   {
+    "t": "Las vistas UML conectan objetivos, flujos e interacciones.",
+    "font": "ArialMT",
+    "size": 27.0,
+    "color": "#FFFFFF",
+    "bbox": [
+     178.2,
+     282.0,
+     867.2,
+     312.1
+    ]
+   },
+   {
+    "t": "03",
+    "font": "Arial-BoldMT",
+    "size": 46.6,
+    "color": "#E5A16A",
+    "bbox": [
+     59.7,
+     374.3,
+     111.5,
+     426.2
+    ]
+   },
+   {
+    "t": "El modelado conserva los límites de la fuente.",
+    "font": "ArialMT",
+    "size": 27.0,
+    "color": "#FFFFFF",
+    "bbox": [
+     178.2,
+     393.0,
+     728.8,
+     423.1
+    ]
+   }
+  ],
+  "images": [],
+  "drawings": [
+   {
+    "type": "f",
+    "rect": [
+     0.0,
+     -0.0,
+     960.0,
+     540.0
+    ],
+    "fill": "#102D47",
+    "stroke": null,
+    "width": null
+   }
+  ]
+ },
+ {
+  "slide": 90,
+  "size": [
+   960.0,
+   540.0
+  ],
+  "text": [
+   {
+    "t": "KuyayPet  /  90",
+    "font": "ArialMT",
+    "size": 10.6,
+    "color": "#A9DDF0",
+    "bbox": [
+     845.6,
+     515.7,
+     916.7,
+     527.5
+    ]
+   },
+   {
+    "t": "Gracias",
+    "font": "Arial-BoldMT",
+    "size": 67.6,
+    "color": "#FFFFFF",
+    "bbox": [
+     356.1,
+     273.1,
+     603.9,
+     348.4
+    ]
+   },
+   {
+    "t": "KuyayPet",
+    "font": "ArialMT",
+    "size": 28.6,
+    "color": "#A9DDF0",
+    "bbox": [
+     419.0,
+     379.4,
+     541.2,
+     411.2
+    ]
+   }
+  ],
+  "images": [
+   {
+    "file": "assets/img_001_s01.png",
+    "bbox": [
+     402.0,
+     99.0,
+     544.6,
+     241.6
+    ],
+    "px": [
+     192,
+     192
+    ]
+   }
+  ],
+  "drawings": [
+   {
+    "type": "f",
+    "rect": [
+     0.0,
+     -0.0,
+     960.0,
+     540.0
+    ],
+    "fill": "#102D47",
+    "stroke": null,
+    "width": null
+   }
+  ]
+ }
+]

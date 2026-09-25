@@ -1,0 +1,22 @@
+{
+  "name": "kuyaypet-uml",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc --noEmit && vite build",
+    "preview": "vite preview --port 4173 --strictPort",
+    "check": "playwright test tests/check.spec.ts",
+    "screens": "playwright test tests/screens.spec.ts",
+    "icons": "playwright test tests/icons.spec.ts"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.63.0",
+    "typescript": "^7.0.2",
+    "vite": "^8.3.1"
+  },
+  "dependencies": {
+    "@fontsource-variable/inter": "^5.3.0"
+  }
+}

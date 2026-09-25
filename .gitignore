@@ -1,0 +1,8 @@
+node_modules/
+dist/
+dist-offline/
+out/
+ref/assets.zip
+ref/slides.zip
+test-results/
+playwright-report/

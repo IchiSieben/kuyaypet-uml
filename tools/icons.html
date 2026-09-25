@@ -1,0 +1,26 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="UTF-8" />
+<title>Íconos: original vs SVG</title>
+<style>
+  body { margin: 0; padding: 24px; font: 14px/1.3 system-ui, sans-serif; background: #eef1f4; color: #102D47; width: 1200px; }
+  h1 { font-size: 20px; margin: 0 0 16px; }
+  .row { display: grid; grid-template-columns: 150px 200px 200px 200px 1fr; align-items: center; gap: 16px; margin-bottom: 12px; }
+  .cell { width: 192px; height: 192px; position: relative; border-radius: 8px; background: #fff; }
+  .cell.dark { background: #102D47; }
+  .cell > * { position: absolute; inset: 0; width: 192px; height: 192px; }
+  .ov img { opacity: .55; filter: sepia(1) saturate(8) hue-rotate(-50deg); }
+  .ov svg { color: #1f6fff; opacity: .6; }
+  .head { font-weight: 600; }
+  .score { font-variant-numeric: tabular-nums; font-size: 16px; }
+  .bad { color: #c0392b; font-weight: 700; }
+</style>
+</head>
+<body>
+<h1>Íconos — PNG original · SVG redibujado · superposición (rojo = original, azul = SVG)</h1>
+<div class="row head"><div>archivo</div><div>PNG original</div><div>SVG</div><div>superposición</div><div>IoU (máscaras)</div></div>
+<div id="rows"></div>
+<script type="module" src="./icons.ts"></script>
+</body>
+</html>
