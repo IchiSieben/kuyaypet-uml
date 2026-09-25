@@ -1,0 +1,6 @@
+# Diagrams must reach the audience byte-for-byte: ask the CDN not to recompress images.
+<IfModule mod_headers.c>
+  <FilesMatch "\.(png|jpe?g|webp|pdf)$">
+    Header set Cache-Control "public, max-age=604800, no-transform"
+  </FilesMatch>
+</IfModule>
